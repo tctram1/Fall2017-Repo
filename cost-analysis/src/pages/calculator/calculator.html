@@ -1,0 +1,101 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Cost Analysis</ion-title>
+  </ion-navbar>
+
+  <ion-toolbar>
+    <ion-title>Calculator</ion-title>
+  </ion-toolbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+
+  <ion-card>
+
+    <ion-card-header>
+      Material Cost
+    </ion-card-header>
+
+    <ion-card-content>
+      
+      <table>
+        <tr>
+          <th>Item</th>
+          <th>Qty.</th>
+          <th>Price</th>
+        </tr>
+
+        <tr>
+          <td>
+            <ion-item>
+              <ion-input type="text" placeholder="Item"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Qty."></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Price"></ion-input>
+            </ion-item>
+          </td>
+        </tr>
+
+        <tr *ngFor="let row of rows">
+          <td>
+            <ion-item>
+              <ion-input type="text" placeholder="Item"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Qty."></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Price"></ion-input>
+            </ion-item>
+          </td>
+        </tr>
+      </table>
+
+      <br>
+
+      <button ion-button full round [disabled]="rows?.length === maxQuantity" (click)="addRow()">
+          Add Row
+      </button>
+      
+      <button ion-button full round (click)="calculateResult()">
+        Calculate
+      </button>
+
+    </ion-card-content>
+
+  </ion-card>
+
+
+  <ion-card>
+
+    <ion-card-header>
+      Result
+    </ion-card-header>
+
+    <ion-card-content>
+
+      <ion-item>
+        <ion-label Inline>Total Price</ion-label>
+        <ion-input type="number" placeholder="Total" [(ngModel)]="quantity * price"></ion-input>
+      </ion-item>
+
+    </ion-card-content>
+
+  </ion-card>
+
+</ion-content>

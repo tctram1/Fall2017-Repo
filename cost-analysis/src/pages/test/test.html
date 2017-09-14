@@ -1,0 +1,76 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>TESTING</ion-title>
+  </ion-navbar>
+</ion-header>
+  
+<ion-content padding>
+
+  <!-- Calculation in Row -->
+  <ion-card>
+    <ion-card-header>Calculation in Row</ion-card-header>
+    
+    <ion-card-content>
+      <table>
+        <tr>
+          <th>Item</th>
+          <th>Qty.</th>
+          <th>Price</th>
+        </tr>
+
+        <tr>
+          <td>
+            <ion-item>
+              <ion-input type="text" placeholder="Item"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Qty." [(ngModel)]="quantity"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Price" [(ngModel)]="price"></ion-input>
+            </ion-item>
+          </td>
+        </tr>
+      </table>
+
+      <ion-item>
+        <ion-label Inline>Total Price</ion-label>
+        <ion-input type="number" placeholder="Total" [(ngModel)]="quantity * price"></ion-input>
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+  
+  <!-- Adding Row -->
+  <ion-card>
+    <ion-card-header>Adding Row</ion-card-header>
+
+    <ion-card-content>
+      <ion-grid>
+        <ion-row *ngFor="let row of rows">
+          <ion-col>
+            {{ row?.firstCol }}
+          </ion-col>
+          <ion-col>
+            {{ row?.secondCol }}
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+
+      <button ion-button full round [disabled]="rows?.length === maxQuantity" (click)="addrow()">Add a row</button>
+    </ion-card-content>  
+  </ion-card>
+
+  <!-- Calculation in Array -->
+  <ion-card>
+    <ion-card-header>Calculation in Array</ion-card-header>
+    
+    <ion-card-content>
+      <div class="item item-divider">Restaurant 1<span class="item-note">$ {{initialPrice}}</span></div>
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>
