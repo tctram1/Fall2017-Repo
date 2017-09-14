@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title text-center>Apperal</ion-title>
+  </ion-navbar>
+  <ion-toolbar color="secondary">
+        <ion-title text-center>Apperal Categories</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+    <button ion-item *ngFor="let category of categories" 
+        (click)="itemTapped($event, category)">
+        {{ category.CatName }}
+    </button>
+
+</ion-content>
