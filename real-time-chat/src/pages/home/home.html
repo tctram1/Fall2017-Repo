@@ -1,0 +1,26 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>
+      Chat Room
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+
+  <ion-card>
+  
+    <ion-item>
+      <ion-label floating>Username</ion-label>
+      <ion-input [(ngModel)]="username" type="text"></ion-input>
+    </ion-item>
+  
+    <ion-buttons>
+      <button ion-button block outline (click)="enter()">Enter Chat Room</button>
+    </ion-buttons>
+    
+</ion-card>
+
+</ion-content>
