@@ -8,6 +8,10 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class CalculatorPage {
 
+  quantity;
+  price;
+  total;
+
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
@@ -23,6 +27,12 @@ export class CalculatorPage {
     this.rows.push({ Col1: 'Item', Col2: 'Qty.', Col3: 'Price' });
   }
   // End of Adding Row Function
+
+  //Start of calculateResult()
+  calculateResult() {
+    this.total = this.quantity * this.price
+  } 
+  // End of caculateResult()
 
 
 

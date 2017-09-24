@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+//import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 
 /**
  * Generated class for the TestPage page.
@@ -15,7 +16,15 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class TestPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  quantity;
+  price;
+  total;
+
+  constructor(public navCtrl: NavController,
+              public navParams: NavParams
+              //public db: AngularFireDatabase
+              ) {
+    console.log(this.navParams);
   }
 
   ionViewDidLoad() {
@@ -45,8 +54,14 @@ export class TestPage {
   // };
   // End of Calculation in Array Function
 
+  //Start CalculateResult()
+  calculateResult() {
+    this.total = this.quantity * this.price
+  } //end of caculateResult()
 
 
+
+  
 
 
 

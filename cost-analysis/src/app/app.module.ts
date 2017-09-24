@@ -11,6 +11,18 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
+import { AngularFireModule } from 'angularfire2';
+import { AngularFireDatabaseModule } from 'angularfire2/database';
+
+var config = {
+  apiKey: "AIzaSyAiozUsOkLqakAO0449Rr92WNoy4dyIbKY",
+  authDomain: "cost-analysis.firebaseapp.com",
+  databaseURL: "https://cost-analysis.firebaseio.com",
+  projectId: "cost-analysis",
+  storageBucket: "cost-analysis.appspot.com",
+  messagingSenderId: "280279493575"
+};
+
 @NgModule({
   declarations: [
     MyApp,
@@ -22,7 +34,9 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
   imports: [
     BrowserModule,
-    IonicModule.forRoot(MyApp)
+    IonicModule.forRoot(MyApp),
+    AngularFireModule.initializeApp(config),
+    AngularFireDatabaseModule
   ],
 
   bootstrap: [IonicApp],

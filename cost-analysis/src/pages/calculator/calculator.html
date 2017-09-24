@@ -47,7 +47,7 @@
           </td>
         </tr>
 
-        <tr *ngFor="let row of rows">
+        <tr *ngFor="let row of rows" ng-repeat="row in rows">
           <td>
             <ion-item>
               <ion-input type="text" placeholder="Item"></ion-input>
@@ -91,7 +91,7 @@
 
       <ion-item>
         <ion-label Inline>Total Price</ion-label>
-        <ion-input type="number" placeholder="Total" [(ngModel)]="quantity * price"></ion-input>
+        <ion-input type="number" placeholder="Total" [(ngModel)]="total"></ion-input>
       </ion-item>
 
     </ion-card-content>

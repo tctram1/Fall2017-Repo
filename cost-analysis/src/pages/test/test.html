@@ -21,7 +21,7 @@
         <tr>
           <td>
             <ion-item>
-              <ion-input type="text" placeholder="Item"></ion-input>
+              <ion-input type="text" placeholder="Item" [(ngModel)]="item"></ion-input>
             </ion-item>
           </td>
           <td>
@@ -37,9 +37,13 @@
         </tr>
       </table>
 
+      <button ion-button full round (click)="calculateResult()">
+        Calculate
+      </button> 
+
       <ion-item>
         <ion-label Inline>Total Price</ion-label>
-        <ion-input type="number" placeholder="Total" [(ngModel)]="quantity * price"></ion-input>
+        <ion-input type="number" placeholder="Total" [(ngModel)]="total"></ion-input>
       </ion-item>
     </ion-card-content>
   </ion-card>
@@ -74,3 +78,4 @@
   </ion-card>
 
 </ion-content>
+
