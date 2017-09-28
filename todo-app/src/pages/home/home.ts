@@ -12,6 +12,7 @@ import { Data } from '../../providers/data/data';
 export class HomePage {
 
   public items = [];
+  description;
 
   constructor(public navCtrl: NavController,
               public modalCtrl: ModalController,
