@@ -8,8 +8,12 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class CalculatorPage {
 
-  quantity;
-  price;
+  quantity1;
+  quantity2;
+  quantity3;
+  price1;
+  price2;
+  price3;
   total;
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
@@ -30,7 +34,10 @@ export class CalculatorPage {
 
   //Start of calculateResult()
   calculateResult() {
-    this.total = this.quantity * this.price
+    this.total = (this.quantity1 * this.price1)
+                + (this.quantity2 * this.price2)
+                + (this.quantity3 * this.price3);
+    console.log('total = ' + this.total);
   } 
   // End of caculateResult()
 
