@@ -1,36 +1,46 @@
-import { NgModule, ErrorHandler } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
-import { MyApp } from './app.component';
-
-import { AboutPage } from '../pages/about/about';
-import { ContactPage } from '../pages/contact/contact';
-import { HomePage } from '../pages/home/home';
-import { TabsPage } from '../pages/tabs/tabs';
-
-import { StatusBar } from '@ionic-native/status-bar';
+import { ErrorHandler, NgModule } from '@angular/core';
+import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { StatusBar } from '@ionic-native/status-bar';
+import { AngularFireModule } from 'angularfire2';
+import { AngularFireDatabaseModule } from 'angularfire2/database';
+
+
+import { MyApp } from './app.component';
+import { HomePage } from '../pages/home/home';
+import { ChatPage } from '../pages/chat/chat';
+
+var config = {
+  apiKey: "AIzaSyCXMrSGgxf0Z04tlKxlSE52REoyhs-cRXU",
+  authDomain: "real-time-chat-5c9f0.firebaseapp.com",
+  databaseURL: "https://real-time-chat-5c9f0.firebaseio.com",
+  projectId: "real-time-chat-5c9f0",
+  storageBucket: "real-time-chat-5c9f0.appspot.com",
+  messagingSenderId: "201865171878"
+};
 
 @NgModule({
   declarations: [
     MyApp,
-    AboutPage,
-    ContactPage,
     HomePage,
-    TabsPage
+    ChatPage
   ],
+
   imports: [
     BrowserModule,
-    IonicModule.forRoot(MyApp)
+    IonicModule.forRoot(MyApp),
+    AngularFireModule.initializeApp(config),
+    AngularFireDatabaseModule
   ],
+
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    AboutPage,
-    ContactPage,
     HomePage,
-    TabsPage
+    ChatPage
   ],
+  
   providers: [
     StatusBar,
     SplashScreen,
