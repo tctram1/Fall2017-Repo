@@ -1,5 +1,6 @@
 {
   "name": "todo-test",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "462628fd",
+  "type": "ionic-angular",
+  "integrations": {}
 }
