@@ -1,3 +1,33 @@
 page-home {
-
-}
+    
+    .background {
+        background-image:url('https://i.pinimg.com/736x/3e/df/75/3edf75e6ba624c9e3ff1989a429d9c34--iphone--wallpaper-phone-wallpapers.jpg');
+        background-repeat: no-repeat; 
+        background-size: 100% 100%;
+    }
+    
+    .list {
+        margin-top: 150px;
+        padding-right: 30px;
+        padding-left: 15px;
+    }
+    
+    .item {
+        background: none;
+        border: none !important;
+        color: white;
+    }
+    
+    .button {
+        color: white;
+        margin-top: 10px;
+        margin-left: 8px;
+    
+    }
+    
+    
+    
+    
+    
+    } //end of page-home 
+    
