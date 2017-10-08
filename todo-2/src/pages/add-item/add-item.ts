@@ -9,8 +9,8 @@ import { IonicPage, NavController, NavParams, ViewController } from 'ionic-angul
 
 export class AddItemPage {
 
-  title: string;
-  description: string;
+  title;
+  description;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
