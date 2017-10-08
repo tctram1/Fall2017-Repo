@@ -3,6 +3,7 @@ import 'rxjs/add/operator/map';
 import { Storage } from '@ionic/storage';
 
 @Injectable()
+
 export class Data {
 
   constructor(public storage: Storage) {
@@ -17,7 +18,8 @@ export class Data {
 
   save(data) {
 
-    this.storage.set('todos', data);
+    let newData = JSON.stringify(data);
+    this.storage.set('todos', newData);
 
   } //end of save()
 
