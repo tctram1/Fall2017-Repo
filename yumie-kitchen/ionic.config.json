@@ -1,5 +1,6 @@
 {
   "name": "yumie-kitchen",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "e4dd0f3c",
+  "type": "ionic-angular",
+  "integrations": {}
 }

@@ -7,6 +7,8 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
+  RecipeName: string = 'Sunset Smoothie';
+
   constructor(public navCtrl: NavController) {
 
   }

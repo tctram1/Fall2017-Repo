@@ -34,12 +34,22 @@ $app-direction: ltr;
 // The "primary" color is the only required color in the map.
 
 $colors: (
-  primary:    #488aff,
-  secondary:  #32db64,
-  danger:     #f53d3d,
-  light:      #f4f4f4,
-  dark:       #222
+
+  primary:      #488aff,
+  secondary:    #32db64,
+  danger:       #f53d3d,
+  light:        #f4f4f4,
+  dark:         #222,
+  eggshell:     #F1F0EB,
+  darkvanilla:  #d8c3a5,
+  taupegray:    #8e8d8a,
+  lightbeanred: #e98074,
+  beanred:      #e85a4f
+
 );
+
+$card-ios-border-radius: 10px;
+$card-ios-box-shadow: 0 1px 2px;
 
 
 // App iOS Variables

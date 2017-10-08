@@ -1,3 +1,24 @@
 page-home {
 
-}
+    .headingbackground {
+        background-color: color($colors, beanred);
+        text-transform: capitalize;
+    }
+
+    ion-title {
+        color: white
+    }
+
+    .contentbackground {
+        background: color($colors, eggshell);
+    }
+
+    img {
+        border-radius: 10px;
+    }
+
+
+
+
+
+} //end of page-home
