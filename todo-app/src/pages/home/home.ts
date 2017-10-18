@@ -28,7 +28,7 @@ export class HomePage {
 
   ionViewDidLoad() {}
 
-  addItem(){
+  addThisItem(){
     let addModal = this.modalCtrl.create(AddItemPage);
 
     addModal.onDidDismiss((item) => {
@@ -38,7 +38,7 @@ export class HomePage {
     });
 
     addModal.present();
-  } //end of addItem()
+  } //end of addThisItem()
 
   saveItem(item){
     this.items.push(item);
