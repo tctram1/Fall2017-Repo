@@ -1,5 +1,6 @@
 {
   "name": "weather",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "996e0995",
+  "type": "ionic-angular",
+  "integrations": {}
 }
