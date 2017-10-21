@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { ErrorHandler, NgModule } from '@angular/core';
-import { Storage } from '@ionic/storage';
+import { IonicStorageModule } from '@ionic/storage';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { StatusBar } from '@ionic-native/status-bar';
@@ -9,14 +9,14 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { StopTimingPage } from '../pages/stop-timing/stop-timing';
 import { Projects } from '../providers/projects/projects';
-import { HoursMinutesSecondsPipe } from '../pipes/hours-minutes-seconds/hours-minutes-seconds';
+import { HoursMinutesSeconds } from '../pipes/hours-minutes-seconds/hours-minutes-seconds';
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
     StopTimingPage,
-    HoursMinutesSecondsPipe
+    HoursMinutesSeconds
   ],
 
   imports: [
@@ -28,8 +28,7 @@ import { HoursMinutesSecondsPipe } from '../pipes/hours-minutes-seconds/hours-mi
   entryComponents: [
     MyApp,
     HomePage,
-    StopTimingPage,
-    HoursMinutesSecondsPipe
+    StopTimingPage
   ],
 
   providers: [

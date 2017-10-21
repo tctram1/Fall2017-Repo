@@ -1,18 +1,25 @@
-import { Pipe, PipeTransform } from '@angular/core';
+import { Injectable, Pipe } from '@angular/core';
 
-/**
- * Generated class for the HoursMinutesSecondsPipe pipe.
- *
- * See https://angular.io/api/core/Pipe for more info on Angular Pipes.
- */
 @Pipe({
   name: 'hoursMinutesSeconds',
 })
-export class HoursMinutesSecondsPipe implements PipeTransform {
-  /**
-   * Takes a value and makes it lowercase.
-   */
-  transform(value: string, ...args) {
-    return value.toLowerCase();
-  }
-}
+
+@Injectable()
+
+export class HoursMinutesSeconds {
+  
+  transform(value, args?) {
+
+    let minutes = Math.floor(value / 60);
+    let hours = Math.floor(minutes / 60);
+    let seconds = Math.floor(value % 60);
+
+    return hours + "hrs, " + minutes + "mins, " + seconds + "secs";
+
+  } //end of transform
+
+
+
+
+
+} //end of export class
