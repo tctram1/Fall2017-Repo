@@ -1,5 +1,5 @@
 <ion-header>
-  <ion-navbar color="primary">
+  <ion-navbar color="primary" transparent>
     <ion-title>
       Timing App
     </ion-title>
@@ -13,9 +13,27 @@
 
 <ion-content>
   
-  <ion-list no-lines reorder="true" (ionItemReorder)="projectsService.reorder($event)">
-    <ion-item-sliding>
-      <ion-item></ion-item>
+  <ion-list no-lines 
+            reorder="true" 
+            (ionItemReorder)="projectsService.reorder($event)">
+    <ion-item-sliding (click)="toggleTimer(project)"
+                      *ngFor="let project of projectsService.projects">
+      <ion-item>
+        <ion-spinner *ngIf="project.active"
+                      name="bubbles"
+                      item-left></ion-spinner>
+          <h6>{{ project.name }}</h6>
+          <p>{{ project.totalSeconds | hoursMinutesSeconds }}</p>
+      </ion-item>
+
+      <ion-item-options>
+        <button ion-button icon-only color="light" (click)="editProject(project)">
+          <ion-icon name="settings"></ion-icon>
+        </button>
+        <button ion-button icon-only color="danger" (click)="projectsService.removeProject(project)">
+          <ion-icon name="trash"></ion-icon>
+        </button>
+      </ion-item-options>
     </ion-item-sliding>
   </ion-list>
 
