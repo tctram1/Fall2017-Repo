@@ -1,0 +1,1227 @@
+FID,Species ID,Tree ID,Scientific name,Common name,DBH (in.),lat,long
+,,1,Metasequoia glyptostroboides,dawn redwood,32.7,35.310681,-83.182763
+,,2,Metasequoia glyptostroboides,dawn redwood,35.4,35.31068101,-83.18276299
+,,3,Betula alleghaniensis,yellow birch,12.3,35.31068102,-83.18276298
+,,4,Betula alleghaniensis,yellow birch,9.3,35.31068103,-83.18276297
+,,5,Betula alleghaniensis,yellow birch,13.2,35.31068104,-83.18276296
+,,6,Vitex angus-castus,chaste tree,5,35.31068105,-83.18276295
+,,7,Tsuga canadensis,eastern hemlock,10.5,35.31068106,-83.18276294
+,,8,Thuja occidentalis,arborvitae,13.1,35.31068107,-83.18276293
+,,9,Malus sp.,crabapple sp.,10.4,35.31068108,-83.18276292
+,,10,Malus sp.,crabapple sp.,11.5,35.31068109,-83.18276291
+,,11,Ginkgo biloba,ginkgo,17.1,35.3106811,-83.1827629
+,,12,Chamaecyparis thyoides,Atlantic white-cedar,20.9,35.31068111,-83.18276289
+,,13,Quercus falcata,southern red oak,37.7,35.31068112,-83.18276288
+,,14,Pinus strobus,eastern white pine,36.5,35.31068113,-83.18276287
+,,15,Quercus acutissima,sawtooth oak,11.6,35.31068114,-83.18276286
+,,16,Quercus phellos,willow oak,29.9,35.31068115,-83.18276285
+,,17,Quercus falcata,southern red oak,47.5,35.31068116,-83.18276284
+,,18,Quercus falcata,southern red oak,40.6,35.31068117,-83.18276283
+,,19,Betula nigra,river birch,11.7,35.31068118,-83.18276282
+,,20,Quercus acutissima,sawtooth oak,11.7,35.31068119,-83.18276281
+,,21,Acer buergeranium,trident maple,11.2,35.3106812,-83.1827628
+,,22,Acer buergeranium,trident maple,13.7,35.31068121,-83.18276279
+,,23,Acer buergeranium,trident maple,9.7,35.31068122,-83.18276278
+,,24,Quercus coccinea,scarlet oak,25.2,35.31068123,-83.18276277
+,,25,Quercus falcata,southern red oak,37.3,35.31068124,-83.18276276
+,,26,Quercus falcata,southern red oak,33.9,35.31068125,-83.18276275
+,,27,Acer saccharum,sugar maple,32.6,35.31068126,-83.18276274
+,,28,Acer saccharum,sugar maple,27.2,35.31068127,-83.18276273
+,,29,Quercus falcata,southern red oak,27.4,35.31068128,-83.18276272
+,,30,Quercus coccinea,scarlet oak,32.6,35.31068129,-83.18276271
+,,31,Acer platanoides,Norway Maple,36.7,35.3106813,-83.1827627
+,,32,Quercus velutina,black oak,38.2,35.31068131,-83.18276269
+,,33,Cornus florida,flowering dogwood,9.2,35.31068132,-83.18276268
+,,34,Cornus florida,flowering dogwood,12.9,35.31068133,-83.18276267
+,,35,Cornus florida,flowering dogwood,9.9,35.31068134,-83.18276266
+,,36,Acer rubrum,red maple,34.3,35.31068135,-83.18276265
+,,37,Pinus strobus,eastern white pine,28.7,35.31068136,-83.18276264
+,,38,Acer rubrum,red maple,18.3,35.31068137,-83.18276263
+,,39,Quercus falcata,southern red oak,21.9,35.31068138,-83.18276262
+,,40,Pinus strobus,eastern white pine,31.5,35.31068139,-83.18276261
+,,41,Quercus stellata,post oak,28.5,35.3106814,-83.1827626
+,,42,Quercus coccinea,scarlet oak,17,35.31068141,-83.18276259
+,,43,Quercus imbricaria,shingle oak,17.7,35.31068142,-83.18276258
+,,44,Cornus florida,flowering dogwood,9.4,35.31068143,-83.18276257
+,,45,Pinus strobus,eastern white pine,32.1,35.31068144,-83.18276256
+,,46,Quercus alba,white oak,25.8,35.31068145,-83.18276255
+,,47,Quercus alba,white oak,33.7,35.31068146,-83.18276254
+,,48,Quercus alba,white oak,37,35.31068147,-83.18276253
+,,49,Quercus alba,white oak,32.8,35.31068148,-83.18276252
+,,50,Tsuga canadensis,eastern hemlock,28.9,35.31068149,-83.18276251
+,,51,Pinus strobus,eastern white pine,35.9,35.3106815,-83.1827625
+,,52,Pinus strobus,eastern white pine,27.4,35.31068151,-83.18276249
+,,53,Pinus strobus,eastern white pine,22.5,35.31068152,-83.18276248
+,,54,Pinus strobus,eastern white pine,41,35.31068153,-83.18276247
+,,55,Pinus strobus,eastern white pine,19.2,35.31068154,-83.18276246
+,,56,Pinus strobus,eastern white pine,37.2,35.31068155,-83.18276245
+,,57,Quercus alba,white oak,29.5,35.31068156,-83.18276244
+,,58,Quercus alba,white oak,24.5,35.31068157,-83.18276243
+,,59,Pinus strobus,eastern white pine,27.1,35.31068158,-83.18276242
+,,60,Quercus alba,white oak,27.2,35.31068159,-83.18276241
+,,61,Acer rubrum,red maple,18.2,35.3106816,-83.1827624
+,,62,Cornus florida,flowering dogwood,13.3,35.31068161,-83.18276239
+,,63,Quercus acutissima,sawtooth oak,15.2,35.31068162,-83.18276238
+,,64,Quercus coccinea,scarlet oak,16.2,35.31068163,-83.18276237
+,,65,Quercus acutissima,sawtooth oak,12.3,35.31068164,-83.18276236
+,,66,Quercus alba,white oak,29.8,35.31068165,-83.18276235
+,,67,Picea abies,Norway spruce,27.4,35.31068166,-83.18276234
+,,68,Quercus alba,white oak,27.2,35.31068167,-83.18276233
+,,69,Picea abies,Norway spruce,22.3,35.31068168,-83.18276232
+,,70,Acer rubrum,red maple,11.1,35.31068169,-83.18276231
+,,71,Acer rubrum,red maple,16.1,35.3106817,-83.1827623
+,,72,Acer rubrum,red maple,9.6,35.31068171,-83.18276229
+,,73,Quercus alba,white oak,30.8,35.31068172,-83.18276228
+,,74,Carya tomentosa,mockernut hickory,20.4,35.31068173,-83.18276227
+,,75,Quercus alba,white oak,28.5,35.31068174,-83.18276226
+,,76,Picea abies,Norway spruce,16.7,35.31068175,-83.18276225
+,,77,Quercus alba,white oak,33.8,35.31068176,-83.18276224
+,,78,Quercus alba,white oak,22.8,35.31068177,-83.18276223
+,,79,Quercus alba,white oak,39,35.31068178,-83.18276222
+,,80,Thuja occidentalis,arborvitae,36,35.31068179,-83.18276221
+,,81,Chamaecyparis thyoides,Atlantic white-cedar,26.7,35.3106818,-83.1827622
+,,82,Thuja occidentalis,arborvitae,29.9,35.31068181,-83.18276219
+,,83,Quercus alba,white oak,42.6,35.31068182,-83.18276218
+,,84,Cornus florida,flowering dogwood,10.2,35.31068183,-83.18276217
+,,85,Quercus coccinea,scarlet oak,10.7,35.31068184,-83.18276216
+,,86,Quercus falcata,southern red oak,41.9,35.31068185,-83.18276215
+,,87,Acer palmatum,Japanese maple,11.2,35.31068186,-83.18276214
+,,88,Acer palmatum,Japanese maple,9.7,35.31068187,-83.18276213
+,,89,Cornus florida,flowering dogwood,10.2,35.31068188,-83.18276212
+,,90,Cornus florida,flowering dogwood,12.3,35.31068189,-83.18276211
+,,91,Cornus florida,flowering dogwood,11.5,35.3106819,-83.1827621
+,,92,Tsuga canadensis,eastern hemlock,16.3,35.31068191,-83.18276209
+,,93,Tsuga canadensis,eastern hemlock,17.1,35.31068192,-83.18276208
+,,94,Tsuga canadensis,eastern hemlock,20.4,35.31068193,-83.18276207
+,,95,Tsuga canadensis,eastern hemlock,12.9,35.31068194,-83.18276206
+,,96,Tsuga canadensis,eastern hemlock,13.5,35.31068195,-83.18276205
+,,97,Tsuga canadensis,eastern hemlock,12,35.31068196,-83.18276204
+,,98,Tsuga canadensis,eastern hemlock,10.1,35.31068197,-83.18276203
+,,99,Tsuga canadensis,eastern hemlock,24.5,35.31068198,-83.18276202
+,,100,Quercus palustris,pin oak,18,35.31068199,-83.18276201
+,,101,Cornus florida,flowering dogwood,9.5,35.310682,-83.182762
+,,102,Magnolia grandiflora,Southern Magnolia,28.1,35.31068201,-83.18276199
+,,103,Quercus palustris,pin oak,19.7,35.31068202,-83.18276198
+,,104,Tsuga canadensis,eastern hemlock,22.8,35.31068203,-83.18276197
+,,105,Tsuga canadensis,eastern hemlock,24.5,35.31068204,-83.18276196
+,,106,Tsuga canadensis,eastern hemlock,9.5,35.31068205,-83.18276195
+,,107,Tsuga canadensis,eastern hemlock,28.8,35.31068206,-83.18276194
+,,108,Tsuga canadensis,eastern hemlock,25.3,35.31068207,-83.18276193
+,,109,Tsuga canadensis,eastern hemlock,16.2,35.31068208,-83.18276192
+,,110,Tsuga canadensis,eastern hemlock,20.4,35.31068209,-83.18276191
+,,111,Tsuga canadensis,eastern hemlock,15.6,35.3106821,-83.1827619
+,,112,Tsuga canadensis,eastern hemlock,29.5,35.31068211,-83.18276189
+,,113,Quercus acutissima,sawtooth oak,19,35.31068212,-83.18276188
+,,114,Pinus strobus,eastern white pine,31.7,35.31068213,-83.18276187
+,,115,Pinus strobus,eastern white pine,23.6,35.31068214,-83.18276186
+,,116,Pinus strobus,eastern white pine,26,35.31068215,-83.18276185
+,,117,Pinus strobus,eastern white pine,25.2,35.31068216,-83.18276184
+,,118,Pinus strobus,eastern white pine,32.4,35.31068217,-83.18276183
+,,119,Quercus alba,white oak,37.1,35.31068218,-83.18276182
+,,120,Tsuga canadensis,eastern hemlock,15.9,35.31068219,-83.18276181
+,,121,Tsuga canadensis,eastern hemlock,12.6,35.3106822,-83.1827618
+,,122,Tsuga canadensis,eastern hemlock,14.8,35.31068221,-83.18276179
+,,123,Tsuga canadensis,eastern hemlock,17.9,35.31068222,-83.18276178
+,,124,Pinus strobus,eastern white pine,27,35.31068223,-83.18276177
+,,125,Tsuga canadensis,eastern hemlock,9.3,35.31068224,-83.18276176
+,,126,Tsuga canadensis,eastern hemlock,9.4,35.31068225,-83.18276175
+,,127,Tsuga canadensis,eastern hemlock,17.3,35.31068226,-83.18276174
+,,128,Picea abies,Norway spruce,16.8,35.31068227,-83.18276173
+,,129,Picea abies,Norway spruce,9.2,35.31068228,-83.18276172
+,,130,Picea abies,Norway spruce,14.4,35.31068229,-83.18276171
+,,131,Picea abies,Norway spruce,14.2,35.3106823,-83.1827617
+,,132,Picea abies,Norway spruce,17.6,35.31068231,-83.18276169
+,,133,Picea abies,Norway spruce,15.6,35.31068232,-83.18276168
+,,134,Picea abies,Norway spruce,15.7,35.31068233,-83.18276167
+,,135,Picea abies,Norway spruce,13.3,35.31068234,-83.18276166
+,,136,Picea abies,Norway spruce,16,35.31068235,-83.18276165
+,,137,Tsuga canadensis,eastern hemlock,16.9,35.31068236,-83.18276164
+,,138,Tsuga canadensis,eastern hemlock,17.7,35.31068237,-83.18276163
+,,139,Tsuga canadensis,eastern hemlock,20.6,35.31068238,-83.18276162
+,,140,Tsuga canadensis,eastern hemlock,23.1,35.31068239,-83.18276161
+,,141,Tsuga canadensis,eastern hemlock,17.8,35.3106824,-83.1827616
+,,142,Tsuga canadensis,eastern hemlock,15.2,35.31068241,-83.18276159
+,,143,Tsuga canadensis,eastern hemlock,13.3,35.31068242,-83.18276158
+,,144,Tsuga canadensis,eastern hemlock,33.4,35.31068243,-83.18276157
+,,145,Carya species,hickory,17.5,35.31068244,-83.18276156
+,,146,Quercus alba,white oak,31,35.31068245,-83.18276155
+,,147,Tilia americana,American basswood,16.1,35.31068246,-83.18276154
+,,148,Tilia americana,American basswood,17.7,35.31068247,-83.18276153
+,,149,Tilia americana,American basswood,12.9,35.31068248,-83.18276152
+,,150,Tilia americana,American basswood,20.3,35.31068249,-83.18276151
+,,151,Tsuga canadensis,eastern hemlock,20.5,35.3106825,-83.1827615
+,,152,Tsuga canadensis,eastern hemlock,27.8,35.31068251,-83.18276149
+,,153,Thuja occidentalis,arborvitae,19.2,35.31068252,-83.18276148
+,,154,Thuja occidentalis,arborvitae,10.9,35.31068253,-83.18276147
+,,155,Thuja occidentalis,arborvitae,12.1,35.31068254,-83.18276146
+,,156,Thuja occidentalis,arborvitae,12.2,35.31068255,-83.18276145
+,,157,Quercus velutina,black oak,38.2,35.31068256,-83.18276144
+,,158,Quercus falcata,southern red oak,31.8,35.31068257,-83.18276143
+,,159,Acer platanoides,Norway Maple,36.6,35.31068258,-83.18276142
+,,160,Quercus alba,white oak,44.7,35.31068259,-83.18276141
+,,161,Acer saccharum,sugar maple,24.7,35.3106826,-83.1827614
+,,162,Acer rubrum,red maple,25.9,35.31068261,-83.18276139
+,,163,Cornus florida,flowering dogwood,9.8,35.31068262,-83.18276138
+,,164,Quercus palustris,pin oak,15.1,35.31068263,-83.18276137
+,,165,Quercus acutissima,sawtooth oak,12,35.31068264,-83.18276136
+,,166,Quercus palustris,pin oak,13.1,35.31068265,-83.18276135
+,,167,Thuja occidentalis,arborvitae,20.1,35.31068266,-83.18276134
+,,168,Thuja occidentalis,arborvitae,17.5,35.31068267,-83.18276133
+,,169,Quercus falcata,southern red oak,35.6,35.31068268,-83.18276132
+,,170,Acer rubrum,red maple,23.6,35.31068269,-83.18276131
+,,171,Quercus alba,white oak,23.8,35.3106827,-83.1827613
+,,172,Quercus alba,white oak,17,35.31068271,-83.18276129
+,,173,Quercus alba,white oak,27.6,35.31068272,-83.18276128
+,,174,Quercus coccinea,scarlet oak,36.3,35.31068273,-83.18276127
+,,175,Ginkgo biloba,ginkgo,27.5,35.31068274,-83.18276126
+,,176,Tsuga caroliniana,Carolina hemlock,26.5,35.31068275,-83.18276125
+,,177,Acer saccharum,sugar maple,37.1,35.31068276,-83.18276124
+,,178,Tsuga caroliniana,Carolina hemlock,38.9,35.31068277,-83.18276123
+,,179,Ginkgo biloba,ginkgo,41.9,35.31068278,-83.18276122
+,,180,Thuja occidentalis,arborvitae,15.6,35.31068279,-83.18276121
+,,181,Thuja occidentalis,arborvitae,17.8,35.3106828,-83.1827612
+,,182,Thuja occidentalis,arborvitae,16.4,35.31068281,-83.18276119
+,,183,Thuja occidentalis,arborvitae,17.9,35.31068282,-83.18276118
+,,184,Thuja occidentalis,arborvitae,21.1,35.31068283,-83.18276117
+,,185,Quercus phellos,willow oak,34.6,35.31068284,-83.18276116
+,,186,Picea abies,Norway spruce,20.5,35.31068285,-83.18276115
+,,187,Quercus stellata,post oak,29.2,35.31068286,-83.18276114
+,,188,Picea abies,Norway spruce,25.7,35.31068287,-83.18276113
+,,189,Tsuga caroliniana,Carolina hemlock,21.5,35.31068288,-83.18276112
+,,190,Picea abies,Norway spruce,25.5,35.31068289,-83.18276111
+,,191,Quercus falcata,southern red oak,40.5,35.3106829,-83.1827611
+,,192,Picea abies,Norway spruce,33,35.31068291,-83.18276109
+,,193,Quercus falcata,southern red oak,33.8,35.31068292,-83.18276108
+,,194,Pinus strobus,eastern white pine,26,35.31068293,-83.18276107
+,,195,Quercus rubra,northern red oak,30,35.31068294,-83.18276106
+,,196,Pinus strobus,eastern white pine,30.2,35.31068295,-83.18276105
+,,197,Quercus falcata,southern red oak,35.8,35.31068296,-83.18276104
+,,198,Quercus falcata,southern red oak,28.6,35.31068297,-83.18276103
+,,199,Quercus falcata,southern red oak,27.9,35.31068298,-83.18276102
+,,200,Quercus falcata,southern red oak,28.1,35.31068299,-83.18276101
+,,201,Quercus falcata,southern red oak,21.3,35.310683,-83.182761
+,,202,Acer saccharum,sugar maple,,35.31068301,-83.18276099
+,,203,Cornus florida,flowering dogwood,9.4,35.31068302,-83.18276098
+,,204,Pinus strobus,eastern white pine,24.9,35.31068303,-83.18276097
+,,205,Tsuga caroliniana,Carolina hemlock,18.5,35.31068304,-83.18276096
+,,206,Tsuga caroliniana,Carolina hemlock,20.7,35.31068305,-83.18276095
+,,207,Tsuga caroliniana,Carolina hemlock,26.3,35.31068306,-83.18276094
+,,208,Acer rubrum,red maple,13.5,35.31068307,-83.18276093
+,,209,Liriodendron tulipifera,yellow poplar,36.5,35.31068308,-83.18276092
+,,210,Tsuga canadensis,eastern hemlock,23.3,35.31068309,-83.18276091
+,,211,Fraxinus americana,white ash,18.7,35.3106831,-83.1827609
+,,212,Quercus coccinea,scarlet oak,,35.31068311,-83.18276089
+,,213,Liriodendron tulipifera,yellow poplar,27.4,35.31068312,-83.18276088
+,,214,Cornus florida,flowering dogwood,17.7,35.31068313,-83.18276087
+,,215,Quercus stellata,post oak,27.7,35.31068314,-83.18276086
+,,216,Quercus falcata,southern red oak,32.7,35.31068315,-83.18276085
+,,217,Quercus falcata,southern red oak,37.1,35.31068316,-83.18276084
+,,218,Quercus acutissima,sawtooth oak,14.7,35.31068317,-83.18276083
+,,219,Acer saccharum,sugar maple,18.9,35.31068318,-83.18276082
+,,220,Quercus falcata,southern red oak,33,35.31068319,-83.18276081
+,,221,Quercus acutissima,sawtooth oak,13.5,35.3106832,-83.1827608
+,,222,Picea abies,Norway spruce,24.9,35.31068321,-83.18276079
+,,223,Picea abies,Norway spruce,25.6,35.31068322,-83.18276078
+,,224,Pinus strobus,eastern white pine,40.3,35.31068323,-83.18276077
+,,225,Tsuga canadensis,eastern hemlock,12.3,35.31068324,-83.18276076
+,,226,Tsuga canadensis,eastern hemlock,16.9,35.31068325,-83.18276075
+,,227,Tsuga canadensis,eastern hemlock,17.9,35.31068326,-83.18276074
+,,228,Tsuga canadensis,eastern hemlock,15.6,35.31068327,-83.18276073
+,,229,Picea abies,Norway spruce,23.3,35.31068328,-83.18276072
+,,230,Quercus falcata,southern red oak,25.9,35.31068329,-83.18276071
+,,231,Quercus falcata,southern red oak,23.9,35.3106833,-83.1827607
+,,232,Tsuga caroliniana,Carolina hemlock,14,35.31068331,-83.18276069
+,,233,Acer rubrum,red maple,27.1,35.31068332,-83.18276068
+,,234,Quercus alba,white oak,32,35.31068333,-83.18276067
+,,235,Quercus falcata,southern red oak,28.5,35.31068334,-83.18276066
+,,236,Pinus strobus,eastern white pine,15.4,35.31068335,-83.18276065
+,,237,Quercus falcata,southern red oak,31.3,35.31068336,-83.18276064
+,,238,Pinus strobus,eastern white pine,24.4,35.31068337,-83.18276063
+,,239,Pinus strobus,eastern white pine,11.9,35.31068338,-83.18276062
+,,240,Quercus falcata,southern red oak,33,35.31068339,-83.18276061
+,,241,Quercus falcata,southern red oak,26.3,35.3106834,-83.1827606
+,,242,Quercus coccinea,scarlet oak,26.2,35.31068341,-83.18276059
+,,243,Quercus alba,white oak,22.7,35.31068342,-83.18276058
+,,244,Quercus falcata,southern red oak,23.7,35.31068343,-83.18276057
+,,245,Quercus falcata,southern red oak,22.6,35.31068344,-83.18276056
+,,246,Quercus falcata,southern red oak,28,35.31068345,-83.18276055
+,,247,Quercus falcata,southern red oak,23.3,35.31068346,-83.18276054
+,,248,Quercus coccinea,scarlet oak,31.8,35.31068347,-83.18276053
+,,249,Tsuga canadensis,eastern hemlock,19,35.31068348,-83.18276052
+,,250,Quercus coccinea,scarlet oak,27.2,35.31068349,-83.18276051
+,,251,Pinus strobus,eastern white pine,35.3,35.3106835,-83.1827605
+,,252,Pinus strobus,eastern white pine,45.5,35.31068351,-83.18276049
+,,253,Pinus strobus,eastern white pine,39.5,35.31068352,-83.18276048
+,,254,Pinus strobus,eastern white pine,42.7,35.31068353,-83.18276047
+,,255,Acer rubrum,red maple,10.2,35.31068354,-83.18276046
+,,256,Acer rubrum,red maple,19.6,35.31068355,-83.18276045
+,,257,Acer rubrum,red maple,15.3,35.31068356,-83.18276044
+,,258,Quercus acutissima,sawtooth oak,16.9,35.31068357,-83.18276043
+,,259,Acer saccharum,sugar maple,22.6,35.31068358,-83.18276042
+,,260,Tsuga canadensis,eastern hemlock,16.5,35.31068359,-83.18276041
+,,261,Tsuga canadensis,eastern hemlock,14.3,35.3106836,-83.1827604
+,,262,Quercus stellata,post oak,22.9,35.31068361,-83.18276039
+,,263,Pinus strobus,eastern white pine,32,35.31068362,-83.18276038
+,,264,Cornus florida,flowering dogwood,9.2,35.31068363,-83.18276037
+,,265,Tsuga canadensis,eastern hemlock,13.7,35.31068364,-83.18276036
+,,266,Tsuga canadensis,eastern hemlock,16.2,35.31068365,-83.18276035
+,,267,Pinus strobus,eastern white pine,26.9,35.31068366,-83.18276034
+,,268,Pinus strobus,eastern white pine,34.8,35.31068367,-83.18276033
+,,269,Tsuga canadensis,eastern hemlock,27.7,35.31068368,-83.18276032
+,,270,Tsuga canadensis,eastern hemlock,34.3,35.31068369,-83.18276031
+,,271,Acer saccharum,sugar maple,28.1,35.3106837,-83.1827603
+,,272,Tsuga canadensis,eastern hemlock,24.4,35.31068371,-83.18276029
+,,273,Tsuga canadensis,eastern hemlock,22.5,35.31068372,-83.18276028
+,,274,Quercus alba,white oak,37.1,35.31068373,-83.18276027
+,,275,Quercus falcata,southern red oak,35.3,35.31068374,-83.18276026
+,,276,Tsuga canadensis,eastern hemlock,19.5,35.31068375,-83.18276025
+,,277,Quercus alba,white oak,32.9,35.31068376,-83.18276024
+,,278,Pinus strobus,eastern white pine,30.8,35.31068377,-83.18276023
+,,279,Quercus falcata,southern red oak,29.9,35.31068378,-83.18276022
+,,280,Quercus alba,white oak,42,35.31068379,-83.18276021
+,,281,Quercus alba,white oak,30.4,35.3106838,-83.1827602
+,,282,Quercus alba,white oak,37.1,35.31068381,-83.18276019
+,,283,Tsuga canadensis,eastern hemlock,16.2,35.31068382,-83.18276018
+,,284,Tsuga canadensis,eastern hemlock,11.7,35.31068383,-83.18276017
+,,285,Tsuga canadensis,eastern hemlock,14.8,35.31068384,-83.18276016
+,,286,Tsuga canadensis,eastern hemlock,13.1,35.31068385,-83.18276015
+,,287,Tsuga canadensis,eastern hemlock,9.8,35.31068386,-83.18276014
+,,288,Tsuga canadensis,eastern hemlock,12.5,35.31068387,-83.18276013
+,,289,Pinus strobus,eastern white pine,21.9,35.31068388,-83.18276012
+,,290,Quercus falcata,southern red oak,34.1,35.31068389,-83.18276011
+,,291,Tsuga canadensis,eastern hemlock,18.9,35.3106839,-83.1827601
+,,292,Tsuga canadensis,eastern hemlock,10.5,35.31068391,-83.18276009
+,,293,Quercus alba,white oak,28.6,35.31068392,-83.18276008
+,,294,Tsuga canadensis,eastern hemlock,12.4,35.31068393,-83.18276007
+,,295,Tsuga canadensis,eastern hemlock,13.4,35.31068394,-83.18276006
+,,296,Tsuga canadensis,eastern hemlock,16.4,35.31068395,-83.18276005
+,,297,Nyssa sylvatica,black gum,15.5,35.31068396,-83.18276004
+,,298,Quercus falcata,southern red oak,25.4,35.31068397,-83.18276003
+,,299,Tsuga canadensis,eastern hemlock,20,35.31068398,-83.18276002
+,,300,Quercus falcata,southern red oak,36.6,35.31068399,-83.18276001
+,,301,Quercus falcata,southern red oak,40.2,35.310684,-83.18276
+,,302,Prunus serotina,black cherry,14.5,35.31068401,-83.18275999
+,,303,Pinus serotina,pond pine,37.2,35.31068402,-83.18275998
+,,304,Prunus serotina,black cherry,13.9,35.31068403,-83.18275997
+,,305,Liriodendron tulipifera,yellow poplar,45.8,35.31068404,-83.18275996
+,,306,Cornus florida,flowering dogwood,9.1,35.31068405,-83.18275995
+,,307,Ilex opaca,American Holly,13.2,35.31068406,-83.18275994
+,,308,Ilex opaca,American Holly,14,35.31068407,-83.18275993
+,,309,Acer saccharinum,silver maple,56.8,35.31068408,-83.18275992
+,,310,Cornus florida,flowering dogwood,16.6,35.31068409,-83.18275991
+,,311,Acer saccharum,sugar maple,30.6,35.3106841,-83.1827599
+,,312,Liquidambar styraciflua,sweet gum,31.7,35.31068411,-83.18275989
+,,313,Acer negundo,boxelder maple,13.3,35.31068412,-83.18275988
+,,314,Acer negundo,boxelder maple,17.5,35.31068413,-83.18275987
+,,315,Acer negundo,boxelder maple,14.9,35.31068414,-83.18275986
+,,316,Metasequoia glyptostroboides,dawn redwood,38.2,35.31068415,-83.18275985
+,,317,Quercus alba,white oak,51.8,35.31068416,-83.18275984
+,,318,Pinus strobus,eastern white pine,19.5,35.31068417,-83.18275983
+,,319,Pinus strobus,eastern white pine,24.4,35.31068418,-83.18275982
+,,320,Prunus subhirtella,Higan cherry,10.8,35.31068419,-83.18275981
+,,321,Quercus palustris,pin oak,10,35.3106842,-83.1827598
+,,322,Prunus serotina,black cherry,14,35.31068421,-83.18275979
+,,323,Prunus serotina,black cherry,12,35.31068422,-83.18275978
+,,324,Prunus serotina,black cherry,14.6,35.31068423,-83.18275977
+,,325,Juglans nigra,black walnut,13.5,35.31068424,-83.18275976
+,,326,Pinus strobus,eastern white pine,37.2,35.31068425,-83.18275975
+,,327,Prunus serotina,black cherry,15.1,35.31068426,-83.18275974
+,,328,Prunus serotina,black cherry,12.1,35.31068427,-83.18275973
+,,329,Juglans nigra,black walnut,15.3,35.31068428,-83.18275972
+,,330,Prunus serotina,black cherry,11.4,35.31068429,-83.18275971
+,,331,Pinus strobus,eastern white pine,10,35.3106843,-83.1827597
+,,332,Prunus serotina,black cherry,10,35.31068431,-83.18275969
+,,333,Prunus serotina,black cherry,12,35.31068432,-83.18275968
+,,334,Prunus serotina,black cherry,14.8,35.31068433,-83.18275967
+,,335,Prunus serotina,black cherry,14.7,35.31068434,-83.18275966
+,,336,Prunus serotina,black cherry,13.2,35.31068435,-83.18275965
+,,337,Prunus serotina,black cherry,10.2,35.31068436,-83.18275964
+,,338,Juglans nigra,black walnut,10.6,35.31068437,-83.18275963
+,,339,Juglans nigra,black walnut,10.5,35.31068438,-83.18275962
+,,340,Acer saccharinum,silver maple,16.8,35.31068439,-83.18275961
+,,341,Fraxinus pennsylvanica,green ash,24.7,35.3106844,-83.1827596
+,,342,Pinus strobus,eastern white pine,16.2,35.31068441,-83.18275959
+,,343,Pinus strobus,eastern white pine,14.8,35.31068442,-83.18275958
+,,344,Juglans nigra,black walnut,14.9,35.31068443,-83.18275957
+,,345,Castanea mollissima,Chinese chestnut,12.7,35.31068444,-83.18275956
+,,346,Pinus strobus,eastern white pine,11.8,35.31068445,-83.18275955
+,,347,Castanea mollissima,Chinese chestnut,10.2,35.31068446,-83.18275954
+,,348,Liriodendron tulipifera,yellow poplar,13.6,35.31068447,-83.18275953
+,,349,Pinus strobus,eastern white pine,33.7,35.31068448,-83.18275952
+,,350,Prunus serotina,black cherry,23.7,35.31068449,-83.18275951
+,,351,Pinus strobus,eastern white pine,35.4,35.3106845,-83.1827595
+,,352,Gleditsia triacanthos,honeylocust,14.6,35.31068451,-83.18275949
+,,353,Quercus velutina,black oak,11.2,35.31068452,-83.18275948
+,,354,Castanea mollissima,Chinese chestnut,9.4,35.31068453,-83.18275947
+,,355,Liriodendron tulipifera,yellow poplar,13.3,35.31068454,-83.18275946
+,,356,Castanea mollissima,Chinese chestnut,17.4,35.31068455,-83.18275945
+,,357,Gleditsia triacanthos,honeylocust,11.4,35.31068456,-83.18275944
+,,358,Tsuga canadensis,eastern hemlock,12.5,35.31068457,-83.18275943
+,,359,Tsuga canadensis,eastern hemlock,14.8,35.31068458,-83.18275942
+,,360,Tsuga canadensis,eastern hemlock,10.6,35.31068459,-83.18275941
+,,361,Acer rubrum,red maple,24.4,35.3106846,-83.1827594
+,,362,Tsuga canadensis,eastern hemlock,13.7,35.31068461,-83.18275939
+,,363,Tsuga canadensis,eastern hemlock,11.9,35.31068462,-83.18275938
+,,364,Malus sp.,crabapple sp.,10.2,35.31068463,-83.18275937
+,,365,Tsuga canadensis,eastern hemlock,27.2,35.31068464,-83.18275936
+,,366,Tsuga canadensis,eastern hemlock,18.3,35.31068465,-83.18275935
+,,367,Prunus serotina,black cherry,20.4,35.31068466,-83.18275934
+,,368,Quercus phellos,willow oak,11.7,35.31068467,-83.18275933
+,,369,Quercus phellos,willow oak,9.6,35.31068468,-83.18275932
+,,370,Quercus phellos,willow oak,10.6,35.31068469,-83.18275931
+,,371,Quercus phellos,willow oak,11.3,35.3106847,-83.1827593
+,,372,Quercus phellos,willow oak,10.9,35.31068471,-83.18275929
+,,373,Quercus phellos,willow oak,10.8,35.31068472,-83.18275928
+,,374,Ulmus parvifolia,Chinese elm,12,35.31068473,-83.18275927
+,,375,Quercus phellos,willow oak,12.4,35.31068474,-83.18275926
+,,376,Quercus phellos,wiilow oak,13,35.31068475,-83.18275925
+,,377,Ulmus parvifolia,Chinese elm,10.5,35.31068476,-83.18275924
+,,378,Prunus avium,sweet cherry,10.5,35.31068477,-83.18275923
+,,379,Ulmus parvifolia,Chinese elm,10.8,35.31068478,-83.18275922
+,,380,Ulmus parvifolia,Chinese elm,12.9,35.31068479,-83.18275921
+,,381,Quercus phellos,willow oak,10.2,35.3106848,-83.1827592
+,,382,Ulmus parvifolia,Chinese elm,12.4,35.31068481,-83.18275919
+,,383,Ulmus parvifolia,Chinese elm,11.1,35.31068482,-83.18275918
+,,384,Ulmus pumila,Siberian elm,12.9,35.31068483,-83.18275917
+,,385,Ulmus pumila,Siberian elm,10.4,35.31068484,-83.18275916
+,,386,Ulmus parvifolia,Chinese elm,11.9,35.31068485,-83.18275915
+,,387,Quercus phellos,willow oak,15.8,35.31068486,-83.18275914
+,,388,Quercus phellos,willow oak,11.6,35.31068487,-83.18275913
+,,389,Acer saccharum,sugar maple ,10.6,35.31068488,-83.18275912
+,,390,Cercis canadensis,Eastern redbud,9.5,35.31068489,-83.18275911
+,,391,Acer saccharum,sugar maple ,10,35.3106849,-83.1827591
+,,392,Quercus phellos,willow oak,10,35.31068491,-83.18275909
+,,393,Quercus phellos,willow oak,10.2,35.31068492,-83.18275908
+,,394,Quercus phellos,willow oak,13.1,35.31068493,-83.18275907
+,,395,Quercus phellos,willow oak,11.5,35.31068494,-83.18275906
+,,396,Quercus phellos,willow oak,11.3,35.31068495,-83.18275905
+,,397,Quercus phellos,willow oak,14.4,35.31068496,-83.18275904
+,,398,Quercus phellos,willow oak,10,35.31068497,-83.18275903
+,,399,Quercus phellos,willow oak,13,35.31068498,-83.18275902
+,,400,Liriodendron tulipifera,yellow poplar,27,35.31068499,-83.18275901
+,,401,Acer rubrum,red maple,23,35.310685,-83.182759
+,,402,Acer rubrum,red maple,23,35.31068501,-83.18275899
+,,403,Acer rubrum,red maple,20,35.31068502,-83.18275898
+,,404,Acer rubrum,red maple,23,35.31068503,-83.18275897
+,,405,Acer rubrum,red maple,16,35.31068504,-83.18275896
+,,406,Acer rubrum,red maple,17,35.31068505,-83.18275895
+,,407,Acer rubrum,red maple,16,35.31068506,-83.18275894
+,,408,Quercus phellos,willow oak,12,35.31068507,-83.18275893
+,,409,Quercus phellos,willow oak,11,35.31068508,-83.18275892
+,,410,Quercus phellos,willow oak,10,35.31068509,-83.18275891
+,,411,Quercus phellos,willow oak,15,35.3106851,-83.1827589
+,,412,Quercus phellos,willow oak,11,35.31068511,-83.18275889
+,,413,Quercus phellos,willow oak,12,35.31068512,-83.18275888
+,,414,Quercus phellos,willow oak,12,35.31068513,-83.18275887
+,,415,Cercis canadensis,Eastern redbud,8.5,35.31068514,-83.18275886
+,,416,Quercus phellos,willow oak,8.5,35.31068515,-83.18275885
+,,417,Acer rubrum,red maple,26,35.31068516,-83.18275884
+,,418,Acer rubrum,red maple,24,35.31068517,-83.18275883
+,,419,Acer rubrum,red maple,14,35.31068518,-83.18275882
+,,420,Acer rubrum,red maple,18,35.31068519,-83.18275881
+,,421,Acer rubrum,red maple,15,35.3106852,-83.1827588
+,,422,Acer rubrum,red maple,13,35.31068521,-83.18275879
+,,423,Nyssa sylvatica,blackgum,7.3,35.31068522,-83.18275878
+,,424,Gleditsia triacanthos,honeylocust,15,35.31068523,-83.18275877
+,,425,Juglans nigra,black walnut,29.3,35.31068524,-83.18275876
+,,426,Prunus serotina,black cherry,22.2,35.31068525,-83.18275875
+,,427,Robinia pseudoacacia,black locust,22,35.31068526,-83.18275874
+,,428,Carya cordiformis,bitternut hickory,14.9,35.31068527,-83.18275873
+,,429,Quercus imbricaria,shingle oak,29.4,35.31068528,-83.18275872
+,,430,Liriodendron tulipifera,yellow poplar,28.8,35.31068529,-83.18275871
+,,431,Acer rubrum,red maple,33,35.3106853,-83.1827587
+,,432,Liquidambar styraciflua,sweetgum,15,35.31068531,-83.18275869
+,,433,Liquidambar styraciflua,sweetgum,22,35.31068532,-83.18275868
+,,434,Acer saccharum,sugar maple,37.2,35.31068533,-83.18275867
+,,435,Quercus phellos,willow oak,9.3,35.31068534,-83.18275866
+,,436,Quercus phellos,willow oak,9.8,35.31068535,-83.18275865
+,,437,Pinus strobus,eastern white pine,15.75,35.31068536,-83.18275864
+,,438,Pinus strobus,eastern white pine,17.5,35.31068537,-83.18275863
+,,439,Pinus strobus,eastern white pine,28.2,35.31068538,-83.18275862
+,,440,Pinus strobus,eastern white pine,28.25,35.31068539,-83.18275861
+,,441,Pinus strobus,eastern white pine,26.15,35.3106854,-83.1827586
+,,442,Pinus strobus,eastern white pine,14,35.31068541,-83.18275859
+,,443,Pinus strobus,eastern white pine,26.75,35.31068542,-83.18275858
+,,444,Pinus strobus,eastern white pine,24.75,35.31068543,-83.18275857
+,,445,Pinus strobus,eastern white pine,15,35.31068544,-83.18275856
+,,446,Pinus strobus,eastern white pine,23.1,35.31068545,-83.18275855
+,,447,Pinus strobus,eastern white pine,23.75,35.31068546,-83.18275854
+,,448,Pinus strobus,eastern white pine,26,35.31068547,-83.18275853
+,,449,Pinus strobus,eastern white pine,24.85,35.31068548,-83.18275852
+,,450,Pinus strobus,eastern white pine,11,35.31068549,-83.18275851
+,,451,Pinus strobus,eastern white pine,33,35.3106855,-83.1827585
+,,452,Pinus strobus,eastern white pine,32,35.31068551,-83.18275849
+,,453,Pinus strobus,eastern white pine,18,35.31068552,-83.18275848
+,,454,Tsuga canadensis,eastern hemlock,23.5,35.31068553,-83.18275847
+,,455,Pinus strobus,eastern white pine,33.2,35.31068554,-83.18275846
+,,456,Pinus strobus,eastern white pine,21.1,35.31068555,-83.18275845
+,,457,Pinus strobus,eastern white pine,24.7,35.31068556,-83.18275844
+,,458,Pinus strobus,eastern white pine,25.6,35.31068557,-83.18275843
+,,459,Pinus strobus,eastern white pine,20.4,35.31068558,-83.18275842
+,,460,Pinus strobus,eastern white pine,24.8,35.31068559,-83.18275841
+,,461,Pinus strobus,eastern white pine,23,35.3106856,-83.1827584
+,,462,Pinus strobus,eastern white pine,19.4,35.31068561,-83.18275839
+,,463,Pinus strobus,eastern white pine,26.8,35.31068562,-83.18275838
+,,464,Pinus strobus,eastern white pine,20.5,35.31068563,-83.18275837
+,,465,Quercus phellos,willow oak,9,35.31068564,-83.18275836
+,,466,Pinus strobus,eastern white pine,20.5,35.31068565,-83.18275835
+,,467,Quercus phellos,willow oak,9,35.31068566,-83.18275834
+,,468,Acer platanoides,Norway maple,24.2,35.31068567,-83.18275833
+,,469,Quercus falcata,southern red oak,9.3,35.31068568,-83.18275832
+,,470,Taxodium distichum,baldcypress,28.5,35.31068569,-83.18275831
+,,471,Quercus velutina,black oak,12.5,35.3106857,-83.1827583
+,,472,Quercus velutina,black oak,12,35.31068571,-83.18275829
+,,473,Pinus strobus,eastern white pine,20,35.31068572,-83.18275828
+,,474,Pinus strobus,eastern white pine,18.2,35.31068573,-83.18275827
+,,475,Pinus strobus,eastern white pine,17.2,35.31068574,-83.18275826
+,,476,Pinus strobus,eastern white pine,16.3,35.31068575,-83.18275825
+,,477,Pinus strobus,eastern white pine,23.2,35.31068576,-83.18275824
+,,478,Pinus strobus,eastern white pine,25,35.31068577,-83.18275823
+,,479,Betula nigra,river birch,18.5,35.31068578,-83.18275822
+,,480,Betula nigra,river birch,14.4,35.31068579,-83.18275821
+,,481,Betula nigra,river birch,17.3,35.3106858,-83.1827582
+,,482,Koelreuteria paniculata,goldenraintree,10.2,35.31068581,-83.18275819
+,,483,Taxodium distichum,baldcypress,22.3,35.31068582,-83.18275818
+,,484,Taxodium distichum,baldcypress,34.2,35.31068583,-83.18275817
+,,485,Taxodium distichum,baldcypress,31,35.31068584,-83.18275816
+,,486,Acer rubrum,red maple,24.5,35.31068585,-83.18275815
+,,487,Magnolia virginiana,sweetbay magnolia,5,35.31068586,-83.18275814
+,,488,Tsuga canadensis,eastern hemlock,26.4,35.31068587,-83.18275813
+,,489,Acer rubrum,red maple,9.2,35.31068588,-83.18275812
+,,490,Acer rubrum,red maple,11,35.31068589,-83.18275811
+,,491,Koelreuteria paniculata,goldenraintree,10.3,35.3106859,-83.1827581
+,,492,Koelreuteria paniculata,goldenraintree,10,35.31068591,-83.18275809
+,,493,Acer rubrum,red maple,18,35.31068592,-83.18275808
+,,494,Acer rubrum,red maple,9.1,35.31068593,-83.18275807
+,,495,Acer rubrum,red maple,11,35.31068594,-83.18275806
+,,496,Acer rubrum,red maple,15.6,35.31068595,-83.18275805
+,,497,Juglans nigra,black walnut,22.4,35.31068596,-83.18275804
+,,498,Juglans nigra,black walnut,22.3,35.31068597,-83.18275803
+,,499,Pinus strobus,eastern white pine,22,35.31068598,-83.18275802
+,,500,Pinus strobus,eastern white pine,23,35.31068599,-83.18275801
+,,501,Picea abies,Norway spruce,21.2,35.310686,-83.182758
+,,502,Acer rubrum,red maple,27.5,35.31068601,-83.18275799
+,,503,Acer rubrum,red maple,20.3,35.31068602,-83.18275798
+,,504,Acer rubrum,red maple,19.9,35.31068603,-83.18275797
+,,505,Acer rubrum,red maple,12.2,35.31068604,-83.18275796
+,,506,Acer saccharum,sugar maple,22.3,35.31068605,-83.18275795
+,,507,Acer saccharum,sugar maple,25,35.31068606,-83.18275794
+,,508,Acer saccharum,sugar maple,26.5,35.31068607,-83.18275793
+,,509,Fraxinus pennsylvanica,green ash,29.4,35.31068608,-83.18275792
+,,510,Acer saccharum,sugar maple,25.4,35.31068609,-83.18275791
+,,511,Acer rubrum,red maple,24.4,35.3106861,-83.1827579
+,,512,Juglans nigra,black walnut,20.2,35.31068611,-83.18275789
+,,513,Ilex opaca,American holly,15.4,35.31068612,-83.18275788
+,,514,Acer saccharum,sugar maple,22.1,35.31068613,-83.18275787
+,,515,Acer saccharum,sugar maple,20.3,35.31068614,-83.18275786
+,,516,Acer saccharum,sugar maple,25.9,35.31068615,-83.18275785
+,,517,Acer palmatum,Japanese maple,10.1,35.31068616,-83.18275784
+,,518,Acer saccharum,sugar maple,23.4,35.31068617,-83.18275783
+,,519,Acer saccharum,sugar maple,21.6,35.31068618,-83.18275782
+,,520,Oxydendrum arboreum,sourwood,8,35.31068619,-83.18275781
+,,521,Populus deltoides,eastern cottonwood,13.9,35.3106862,-83.1827578
+,,522,Acer palmatum,Japanese maple,10.4,35.31068621,-83.18275779
+,,523,Liquidambar styraciflua,sweetgum,24.5,35.31068622,-83.18275778
+,,524,Quercus bicolor,swamp white oak,20.3,35.31068623,-83.18275777
+,,525,Fagus orientalis,Oriental beech,19.4,35.31068624,-83.18275776
+,,526,Fraxinus pennsylvanica,green ash,17.7,35.31068625,-83.18275775
+,,527,Pinus strobus,eastern white pine,22.2,35.31068626,-83.18275774
+,,528,Pinus strobus,eastern white pine,14.1,35.31068627,-83.18275773
+,,529,Pinus strobus,eastern white pine,15.5,35.31068628,-83.18275772
+,,530,Pinus strobus,eastern white pine,11,35.31068629,-83.18275771
+,,531,Pinus strobus,eastern white pine,12.4,35.3106863,-83.1827577
+,,532,Pinus strobus,eastern white pine,21.2,35.31068631,-83.18275769
+,,533,Pinus strobus,eastern white pine,16.8,35.31068632,-83.18275768
+,,534,Pinus strobus,eastern white pine,18.4,35.31068633,-83.18275767
+,,535,Pinus strobus,eastern white pine,17.1,35.31068634,-83.18275766
+,,536,Pinus strobus,eastern white pine,10.6,35.31068635,-83.18275765
+,,537,Pinus strobus,eastern white pine,9.4,35.31068636,-83.18275764
+,,538,Pinus strobus,eastern white pine,13.5,35.31068637,-83.18275763
+,,539,Pinus strobus,eastern white pine,14.8,35.31068638,-83.18275762
+,,540,Pinus strobus,eastern white pine,20,35.31068639,-83.18275761
+,,541,Pinus strobus,eastern white pine,20.2,35.3106864,-83.1827576
+,,542,Pinus strobus,eastern white pine,14.6,35.31068641,-83.18275759
+,,543,Pinus strobus,eastern white pine,17.4,35.31068642,-83.18275758
+,,544,Pinus strobus,eastern white pine,20.1,35.31068643,-83.18275757
+,,545,Pinus strobus,eastern white pine,20.5,35.31068644,-83.18275756
+,,546,Pinus strobus,eastern white pine,17.1,35.31068645,-83.18275755
+,,547,Pinus strobus,eastern white pine,13.6,35.31068646,-83.18275754
+,,548,Pinus strobus,eastern white pine,14.8,35.31068647,-83.18275753
+,,549,Pinus strobus,eastern white pine,20.4,35.31068648,-83.18275752
+,,550,Pinus strobus,eastern white pine,25.5,35.31068649,-83.18275751
+,,551,Pinus strobus,eastern white pine,18.4,35.3106865,-83.1827575
+,,552,Pinus strobus,eastern white pine,17,35.31068651,-83.18275749
+,,553,Pinus strobus,eastern white pine,21,35.31068652,-83.18275748
+,,554,Pinus strobus,eastern white pine,21.8,35.31068653,-83.18275747
+,,555,Pinus strobus,eastern white pine,17.5,35.31068654,-83.18275746
+,,556,Pinus strobus,eastern white pine,18.9,35.31068655,-83.18275745
+,,557,Pinus strobus,eastern white pine,18.8,35.31068656,-83.18275744
+,,558,Pinus strobus,eastern white pine,20.8,35.31068657,-83.18275743
+,,559,Pinus strobus,eastern white pine,18.7,35.31068658,-83.18275742
+,,560,Pinus strobus,eastern white pine,21,35.31068659,-83.18275741
+,,561,Pinus strobus,eastern white pine,17.2,35.3106866,-83.1827574
+,,562,Pinus strobus,eastern white pine,12.9,35.31068661,-83.18275739
+,,563,Pinus strobus,eastern white pine,15.2,35.31068662,-83.18275738
+,,564,Pinus strobus,eastern white pine,16.8,35.31068663,-83.18275737
+,,565,Pinus strobus,eastern white pine,13.4,35.31068664,-83.18275736
+,,566,Pinus strobus,eastern white pine,22.8,35.31068665,-83.18275735
+,,567,Pinus strobus,eastern white pine,13.4,35.31068666,-83.18275734
+,,568,Pinus strobus,eastern white pine,19,35.31068667,-83.18275733
+,,569,Pinus strobus,eastern white pine,19,35.31068668,-83.18275732
+,,570,Pinus strobus,eastern white pine,22.1,35.31068669,-83.18275731
+,,571,Pinus strobus,eastern white pine,13,35.3106867,-83.1827573
+,,572,Pinus strobus,eastern white pine,24,35.31068671,-83.18275729
+,,573,Pinus strobus,eastern white pine,23.4,35.31068672,-83.18275728
+,,574,Pinus strobus,eastern white pine,13.3,35.31068673,-83.18275727
+,,575,Pinus strobus,eastern white pine,20.5,35.31068674,-83.18275726
+,,576,Pinus strobus,eastern white pine,22.3,35.31068675,-83.18275725
+,,577,Pinus strobus,eastern white pine,20.2,35.31068676,-83.18275724
+,,578,Pinus strobus,eastern white pine,25.6,35.31068677,-83.18275723
+,,579,Pinus strobus,eastern white pine,17.9,35.31068678,-83.18275722
+,,580,Pinus strobus,eastern white pine,21,35.31068679,-83.18275721
+,,581,Pinus strobus,eastern white pine,30.4,35.3106868,-83.1827572
+,,582,Pinus strobus,eastern white pine,31,35.31068681,-83.18275719
+,,583,Pinus strobus,eastern white pine,22.5,35.31068682,-83.18275718
+,,584,Pinus strobus,eastern white pine,12.9,35.31068683,-83.18275717
+,,585,Pinus strobus,eastern white pine,12,35.31068684,-83.18275716
+,,586,Pinus strobus,eastern white pine,20.7,35.31068685,-83.18275715
+,,587,Pinus strobus,eastern white pine,19.4,35.31068686,-83.18275714
+,,588,Pinus strobus,eastern white pine,24.9,35.31068687,-83.18275713
+,,589,Pinus strobus,eastern white pine,29.5,35.31068688,-83.18275712
+,,590,Pinus strobus,eastern white pine,19.9,35.31068689,-83.18275711
+,,591,Pinus strobus,eastern white pine,29,35.3106869,-83.1827571
+,,592,Pinus strobus,eastern white pine,17.9,35.31068691,-83.18275709
+,,593,Pinus strobus,eastern white pine,28.1,35.31068692,-83.18275708
+,,594,Pinus strobus,eastern white pine,22.3,35.31068693,-83.18275707
+,,595,Pinus strobus,eastern white pine,17.8,35.31068694,-83.18275706
+,,596,Pinus strobus,eastern white pine,33.9,35.31068695,-83.18275705
+,,597,Pinus strobus,eastern white pine,28.1,35.31068696,-83.18275704
+,,598,Pinus strobus,eastern white pine,29,35.31068697,-83.18275703
+,,599,Pinus strobus,eastern white pine,21.6,35.31068698,-83.18275702
+,,600,Pinus strobus,eastern white pine,21.8,35.31068699,-83.18275701
+,,601,Pinus strobus,eastern white pine,24.2,35.310687,-83.182757
+,,602,Pinus strobus,eastern white pine,17.5,35.31068701,-83.18275699
+,,603,Pinus strobus,eastern white pine,24.6,35.31068702,-83.18275698
+,,604,Pinus strobus,eastern white pine,16.5,35.31068703,-83.18275697
+,,605,Pinus strobus,eastern white pine,19.3,35.31068704,-83.18275696
+,,606,Pinus strobus,eastern white pine,18.2,35.31068705,-83.18275695
+,,607,Pinus strobus,eastern white pine,10.9,35.31068706,-83.18275694
+,,608,Pinus strobus,eastern white pine,16.9,35.31068707,-83.18275693
+,,609,Pinus strobus,eastern white pine,11.9,35.31068708,-83.18275692
+,,610,Pinus strobus,eastern white pine,12.8,35.31068709,-83.18275691
+,,611,Pinus strobus,eastern white pine,20.9,35.3106871,-83.1827569
+,,612,Pinus strobus,eastern white pine,19.8,35.31068711,-83.18275689
+,,613,Pinus strobus,eastern white pine,18.5,35.31068712,-83.18275688
+,,614,Pinus strobus,eastern white pine,28.2,35.31068713,-83.18275687
+,,615,Pinus strobus,eastern white pine,16.9,35.31068714,-83.18275686
+,,616,Pinus strobus,eastern white pine,20.7,35.31068715,-83.18275685
+,,617,Pinus strobus,eastern white pine,17.7,35.31068716,-83.18275684
+,,618,Pinus strobus,eastern white pine,26.4,35.31068717,-83.18275683
+,,619,Pinus strobus,eastern white pine,19.8,35.31068718,-83.18275682
+,,620,Pinus strobus,eastern white pine,18.7,35.31068719,-83.18275681
+,,621,Pinus strobus,eastern white pine,24.4,35.3106872,-83.1827568
+,,622,Pinus strobus,eastern white pine,23.5,35.31068721,-83.18275679
+,,623,Pinus strobus,eastern white pine,18.7,35.31068722,-83.18275678
+,,624,Pinus strobus,eastern white pine,14.9,35.31068723,-83.18275677
+,,625,Pinus strobus,eastern white pine,23.3,35.31068724,-83.18275676
+,,626,Pinus strobus,eastern white pine,29.4,35.31068725,-83.18275675
+,,627,Acer buergeranium,trident maple,10.3,35.31068726,-83.18275674
+,,628,Acer buergeranium,trident maple,10.3,35.31068727,-83.18275673
+,,629,Acer rubrum,red maple,16.2,35.31068728,-83.18275672
+,,630,Acer rubrum,red maple,13.6,35.31068729,-83.18275671
+,,631,Acer rubrum,red maple,11.8,35.3106873,-83.1827567
+,,632,Betula alleghaniensis,yellow birch,12.2,35.31068731,-83.18275669
+,,633,Tsuga canadensis,eastern hemlock,12.9,35.31068732,-83.18275668
+,,634,Tsuga canadensis,eastern hemlock,11.7,35.31068733,-83.18275667
+,,635,Fagus orientalis,Oriental beech,31,35.31068734,-83.18275666
+,,636,Pyrus calleryana,Callery pear,29.8,35.31068735,-83.18275665
+,,637,Betula nigra,river birch,24.4,35.31068736,-83.18275664
+,,638,Betula papyrifera,paper birch,9.1,35.31068737,-83.18275663
+,,639,Betula papyrifera,paper birch,9.4,35.31068738,-83.18275662
+,,640,Platanus occidentalis,American sycamore,32.1,35.31068739,-83.18275661
+,,641,Platanus occidentalis,American sycamore,29.3,35.3106874,-83.1827566
+,,642,Platanus occidentalis,American sycamore,28.5,35.31068741,-83.18275659
+,,643,Platanus occidentalis,American sycamore,34.1,35.31068742,-83.18275658
+,,644,Platanus occidentalis,American sycamore,28.7,35.31068743,-83.18275657
+,,645,Platanus occidentalis,American sycamore,28.3,35.31068744,-83.18275656
+,,646,Betula lenta,sweet birch,11.5,35.31068745,-83.18275655
+,,647,Taxodium distichum,baldcypress,31,35.31068746,-83.18275654
+,,648,Acer rubrum,red maple,26,35.31068747,-83.18275653
+,,649,Acer rubrum,red maple,35.7,35.31068748,-83.18275652
+,,650,Picea rubens,red spruce,11.1,35.31068749,-83.18275651
+,,651,Acer rubrum,red maple,13.5,35.3106875,-83.1827565
+,,652,Chamaecyparis thyoides,Atlantic white-cedar,14.4,35.31068751,-83.18275649
+,,653,Chamaecyparis thyoides,Atlantic white-cedar,18.8,35.31068752,-83.18275648
+,,654,Metasequoia glyptostroboides,dawn redwood,26,35.31068753,-83.18275647
+,,655,Liquidambar styraciflua,sweetgum,11.2,35.31068754,-83.18275646
+,,656,Liquidambar styraciflua,sweetgum,9.4,35.31068755,-83.18275645
+,,657,Liquidambar styraciflua,sweetgum,9.8,35.31068756,-83.18275644
+,,658,Aesculus flava,yellow buckeye,10,35.31068757,-83.18275643
+,,659,Aesculus flava,yellow buckeye,12.5,35.31068758,-83.18275642
+,,660,Acer rubrum,red maple,14.8,35.31068759,-83.18275641
+,,661,Acer saccharum,sugar maple,9.5,35.3106876,-83.1827564
+,,662,Cladrastis kentukea,yellowwood,12.2,35.31068761,-83.18275639
+,,663,Quercus palustris,pin oak,12.5,35.31068762,-83.18275638
+,,664,Acer rubrum,red maple,25.3,35.31068763,-83.18275637
+,,665,Acer rubrum,red maple,15.4,35.31068764,-83.18275636
+,,666,Magnolia grandiflora,southern magnolia,10.7,35.31068765,-83.18275635
+,,667,Picea abies pendula,weeping Norway spruce,10.8,35.31068766,-83.18275634
+,,668,Acer saccharum,sugar maple,25.2,35.31068767,-83.18275633
+,,669,Acer rubrum,red maple,12.3,35.31068768,-83.18275632
+,,670,Picea abies pendula,weeping Norway spruce,12.3,35.31068769,-83.18275631
+,,671,Pinus echinata,shortleaf pine,multi-sprout,35.3106877,-83.1827563
+,,672,Salix matsudana,corkscrew willow,10.7,35.31068771,-83.18275629
+,,673,Salix matsudana,corkscrew willow,12,35.31068772,-83.18275628
+,,674,Salix matsudana,corkscrew willow,15.1,35.31068773,-83.18275627
+,,675,Cornus florida,flowering dogwood,9.3,35.31068774,-83.18275626
+,,676,Ilex opaca,American holly,11.4,35.31068775,-83.18275625
+,,677,Ilex opaca,American holly,12.2,35.31068776,-83.18275624
+,,678,Acer rubrum,red maple,18.7,35.31068777,-83.18275623
+,,679,Acer saccharum,sugar maple,16.8,35.31068778,-83.18275622
+,,680,Acer rubrum,red maple,23.9,35.31068779,-83.18275621
+,,681,Acer rubrum,red maple,23.5,35.3106878,-83.1827562
+,,682,Acer saccharum,sugar maple,37.9,35.31068781,-83.18275619
+,,683,Picea pungens,Colorado blue spruce,6.2,35.31068782,-83.18275618
+,,684,Taxus cuspidata capitata,upright Japanese yew,4.5,35.31068783,-83.18275617
+,,685,Cedrus atlantica pendula,weeping blue Atlas cedar,7,35.31068784,-83.18275616
+,,686,Ilex opaca,American holly,11.6,35.31068785,-83.18275615
+,,687,Acer saccharum,sugar maple,28.2,35.31068786,-83.18275614
+,,688,Acer saccharum,sugar maple,26.9,35.31068787,-83.18275613
+,,689,Quercus palustris,pin oak,28.9,35.31068788,-83.18275612
+,,690,Acer xfreemanii,freeman maple,18.5,35.31068789,-83.18275611
+,,691,Acer xfreemanii,freeman maple,22.7,35.3106879,-83.1827561
+,,692,Acer xfreemanii,freeman maple,25.7,35.31068791,-83.18275609
+,,693,Acer saccharum,sugar maple,17.9,35.31068792,-83.18275608
+,,694,Acer saccharum,sugar maple,22.3,35.31068793,-83.18275607
+,,695,Acer saccharum,sugar maple,14.4,35.31068794,-83.18275606
+,,696,Acer rubrum,red maple,15,35.31068795,-83.18275605
+,,697,Magnolia grandiflora,southern magnolia,14.2,35.31068796,-83.18275604
+,,698,Magnolia grandiflora,southern magnolia,14.9,35.31068797,-83.18275603
+,,699,Acer rubrum,red maple,13.2,35.31068798,-83.18275602
+,,700,Pyrus calleryana,Callery pear,15.9,35.31068799,-83.18275601
+,,701,Pyrus calleryana,Callery pear,15.1,35.310688,-83.182756
+,,702,Pyrus calleryana,Callery pear,13,35.31068801,-83.18275599
+,,703,Pyrus calleryana,Callery pear,14.7,35.31068802,-83.18275598
+,,704,Acer rubrum,red maple,14.3,35.31068803,-83.18275597
+,,705,Acer rubrum,red maple,10.4,35.31068804,-83.18275596
+,,706,,,,35.31068805,-83.18275595
+,,707,Pinus strobus,eastern white pine,31,35.31068806,-83.18275594
+,,708,Quercus rubra,northern red oak,9,35.31068807,-83.18275593
+,,709,Acer rubrum,red maple,15,35.31068808,-83.18275592
+,,710,Acer rubrum,red maple,17.2,35.31068809,-83.18275591
+,,711,Acer rubrum,red maple,22.4,35.3106881,-83.1827559
+,,712,Acer rubrum,red maple,13.1,35.31068811,-83.18275589
+,,713,Acer rubrum,red maple,10.8,35.31068812,-83.18275588
+,,714,Acer rubrum,red maple,26.7,35.31068813,-83.18275587
+,,715,Magnolia liliiflora,Mulan magnolia,10.6,35.31068814,-83.18275586
+,,716,Pinus palustris,longleaf pine,21.7,35.31068815,-83.18275585
+,,717,Pinus taeda,loblolly pine,22.9,35.31068816,-83.18275584
+,,718,Quercus rubra,northern red oak,9.8,35.31068817,-83.18275583
+,,719,Quercus rubra,northern red oak,46.1,35.31068818,-83.18275582
+,,720,Quercus rubra,northern red oak,9.3,35.31068819,-83.18275581
+,,721,Tsuga canadensis,eastern hemlock,26.7,35.3106882,-83.1827558
+,,722,Tsuga canadensis,eastern hemlock,16.3,35.31068821,-83.18275579
+,,723,Quercus rubra,northern red oak,9.4,35.31068822,-83.18275578
+,,724,Ilex opaca,American holly,14.6,35.31068823,-83.18275577
+,,725,Ilex opaca,American holly,16.2,35.31068824,-83.18275576
+,,726,Malus sp.,common apple,9.5,35.31068825,-83.18275575
+,,727,Prunus subhirtella,Higan cherry,23.9,35.31068826,-83.18275574
+,,728,Tsuga canadensis,eastern hemlock,10.7,35.31068827,-83.18275573
+,,729,Tsuga canadensis,eastern hemlock,10.8,35.31068828,-83.18275572
+,,730,Populus grandidentata,bigtooth aspen,12.8,35.31068829,-83.18275571
+,,731,Populus grandidentata,bigtooth aspen,10.9,35.3106883,-83.1827557
+,,732,Populus grandidentata,bigtooth aspen,10.5,35.31068831,-83.18275569
+,,733,Populus grandidentata,bigtooth aspen,13.2,35.31068832,-83.18275568
+,,734,Populus grandidentata,bigtooth aspen,15.4,35.31068833,-83.18275567
+,,735,Prunus pendula,weeping cherry,8.4,35.31068834,-83.18275566
+,,736,Acer rubrum,red maple,24.8,35.31068835,-83.18275565
+,,737,Tsuga canadensis,eastern hemlock,18.8,35.31068836,-83.18275564
+,,738,Tsuga canadensis,eastern hemlock,15.8,35.31068837,-83.18275563
+,,739,Pyrularia pubera,buffalo-nut,0.5,35.31068838,-83.18275562
+,,740,Sassafras albidum,sassafras,7.5,35.31068839,-83.18275561
+,,741,Oxydendrum arboreum,sourwood,11.1,35.3106884,-83.1827556
+,,742,Carya glabra,pignut hickory,6.8,35.31068841,-83.18275559
+,,743,Quercus palustris,pin oak,23.4,35.31068842,-83.18275558
+,,744,Cercis canadensis,eastern redbud,12.7,35.31068843,-83.18275557
+,,745,Cercis canadensis,eastern redbud,9.9,35.31068844,-83.18275556
+,,746,Cercis canadensis,eastern redbud,11.5,35.31068845,-83.18275555
+,,747,Acer saccharum,sugar maple,25.5,35.31068846,-83.18275554
+,,748,Pinus strobus,eastern white pine,24.5,35.31068847,-83.18275553
+,,749,Prunus serotina,black cherry,12.4,35.31068848,-83.18275552
+,,750,Prunus serotina,black cherry,18.7,35.31068849,-83.18275551
+,,751,Pinus strobus,eastern white pine,23.3,35.3106885,-83.1827555
+,,752,Pinus strobus,eastern white pine,29.8,35.31068851,-83.18275549
+,,753,Pinus strobus,eastern white pine,25.8,35.31068852,-83.18275548
+,,754,Pinus strobus,eastern white pine,28.2,35.31068853,-83.18275547
+,,755,Pinus strobus,eastern white pine,33,35.31068854,-83.18275546
+,,756,Acer saccharum,sugar maple,30.5,35.31068855,-83.18275545
+,,757,Acer saccharum,sugar maple,32.8,35.31068856,-83.18275544
+,,758,Acer saccharum,sugar maple,28.7,35.31068857,-83.18275543
+,,759,Acer saccharum,sugar maple,23.2,35.31068858,-83.18275542
+,,760,Acer rubrum,red maple,15.2,35.31068859,-83.18275541
+,,761,Liriodendron tulipifera,yellow poplar,15.9,35.3106886,-83.1827554
+,,762,Liriodendron tulipifera,yellow poplar,17.6,35.31068861,-83.18275539
+,,763,Liriodendron tulipifera,yellow poplar,17.4,35.31068862,-83.18275538
+,,764,Liriodendron tulipifera,yellow poplar,11,35.31068863,-83.18275537
+,,765,Liriodendron tulipifera,yellow poplar,16.2,35.31068864,-83.18275536
+,,766,Juglans nigra,black walnut,13.6,35.31068865,-83.18275535
+,,767,Juglans nigra,black walnut,17.2,35.31068866,-83.18275534
+,,768,Robinia pseudoacacia,black locust,19.3,35.31068867,-83.18275533
+,,769,Salix babylonica,weeping willow,13.7,35.31068868,-83.18275532
+,,770,Salix babylonica,weeping willow,15.8,35.31068869,-83.18275531
+,,771,Salix babylonica,weeping willow,14.3,35.3106887,-83.1827553
+,,772,Salix babylonica,weeping willow,11.7,35.31068871,-83.18275529
+,,773,Acer saccharum,sugar maple,21.9,35.31068872,-83.18275528
+,,774,Picea abies,Norway spruce,13.7,35.31068873,-83.18275527
+,,775,Malus sp.,common apple,21.1,35.31068874,-83.18275526
+,,776,Malus sp.,common apple,22.4,35.31068875,-83.18275525
+,,777,Picea abies,Norway spruce,13.1,35.31068876,-83.18275524
+,,778,Liriodendron tulipifera,yellow poplar,16,35.31068877,-83.18275523
+,,779,Picea abies,Norway spruce,12,35.31068878,-83.18275522
+,,780,Picea abies,Norway spruce,15.5,35.31068879,-83.18275521
+,,781,Liriodendron tulipifera,yellow poplar,20.3,35.3106888,-83.1827552
+,,782,Liriodendron tulipifera,yellow poplar,24.1,35.31068881,-83.18275519
+,,783,Picea abies,Norway spruce,12.3,35.31068882,-83.18275518
+,,784,Liriodendron tulipifera,yellow poplar,16.7,35.31068883,-83.18275517
+,,785,Liriodendron tulipifera,yellow poplar,15.5,35.31068884,-83.18275516
+,,786,Picea abies,Norway spruce,12.6,35.31068885,-83.18275515
+,,787,Liriodendron tulipifera,yellow poplar,14.3,35.31068886,-83.18275514
+,,788,Quercus phellos,willow oak,11.8,35.31068887,-83.18275513
+,,789,Quercus phellos,willow oak,9.7,35.31068888,-83.18275512
+,,790,Quercus phellos,willow oak,10.5,35.31068889,-83.18275511
+,,791,Quercus phellos,willow oak,13.9,35.3106889,-83.1827551
+,,792,Pinus strobus,eastern white pine,29.2,35.31068891,-83.18275509
+,,793,Pinus strobus,eastern white pine,26.5,35.31068892,-83.18275508
+,,794,Pinus strobus,eastern white pine,24.6,35.31068893,-83.18275507
+,,795,Pinus strobus,eastern white pine,37,35.31068894,-83.18275506
+,,796,Acer saccharinum,silver maple,12.9,35.31068895,-83.18275505
+,,797,Picea abies,Norway spruce,15.5,35.31068896,-83.18275504
+,,798,Acer saccharum,sugar maple,22.1,35.31068897,-83.18275503
+,,799,Acer saccharinum,silver maple,24.1,35.31068898,-83.18275502
+,,800,Juglans nigra,black walnut,23.5,35.31068899,-83.18275501
+,,801,Robinia pseudoacacia,black locust,21.1,35.310689,-83.182755
+,,802,Robinia pseudoacacia,black locust,25.9,35.31068901,-83.18275499
+,,803,Juglans nigra,black walnut,20.8,35.31068902,-83.18275498
+,,804,Juglans nigra,black walnut,9.2,35.31068903,-83.18275497
+,,805,Robinia pseudoacacia,black locust,12.3,35.31068904,-83.18275496
+,,806,Robinia pseudoacacia,black locust,16.7,35.31068905,-83.18275495
+,,807,Prunus serotina,black cherry,11.9,35.31068906,-83.18275494
+,,808,Robinia pseudoacacia,black locust,12.2,35.31068907,-83.18275493
+,,809,Robinia pseudoacacia,black locust,9.7,35.31068908,-83.18275492
+,,810,Robinia pseudoacacia,black locust,14.9,35.31068909,-83.18275491
+,,811,Acer rubrum,red maple,31.5,35.3106891,-83.1827549
+,,812,Quercus imbricaria,shingle oak,35,35.31068911,-83.18275489
+,,813,Quercus imbricaria,shingle oak,38.7,35.31068912,-83.18275488
+,,814,Quercus imbricaria,shingle oak,23.6,35.31068913,-83.18275487
+,,815,Quercus imbricaria,shingle oak,25.8,35.31068914,-83.18275486
+,,816,Prunus serotina,black cherry,14.4,35.31068915,-83.18275485
+,,817,Prunus serotina,black cherry,17.7,35.31068916,-83.18275484
+,,818,Abies fraseri,fraser fir,11.8,35.31068917,-83.18275483
+,,819,Pinus strobus,eastern white pine,32.2,35.31068918,-83.18275482
+,,820,Cornus florida,flowering dogwood,9.8,35.31068919,-83.18275481
+,,821,Pyrus calleryana,Callery pear,12.9,35.3106892,-83.1827548
+,,822,Pyrus calleryana,Callery pear,11.8,35.31068921,-83.18275479
+,,823,Pyrus calleryana,Callery pear,12.3,35.31068922,-83.18275478
+,,824,Cornus florida,flowering dogwood,9.6,35.31068923,-83.18275477
+,,825,Cornus florida,flowering dogwood,9.1,35.31068924,-83.18275476
+,,826,Cornus florida,flowering dogwood,10.3,35.31068925,-83.18275475
+,,827,Cornus florida,flowering dogwood,10.9,35.31068926,-83.18275474
+,,828,Cornus florida,flowering dogwood,9,35.31068927,-83.18275473
+,,829,Quercus phellos,willow oak,9,35.31068928,-83.18275472
+,,830,Quercus phellos,willow oak,9.4,35.31068929,-83.18275471
+,,831,Prunus serotina,black cherry,11.8,35.3106893,-83.1827547
+,,832,Tsuga canadensis,eastern hemlock,10.4,35.31068931,-83.18275469
+,,833,Quercus palustris,pin oak,14.1,35.31068932,-83.18275468
+,,834,Acer rubrum,red maple,10.7,35.31068933,-83.18275467
+,,835,Acer rubrum,red maple,10.1,35.31068934,-83.18275466
+,,836,Acer rubrum,red maple,10,35.31068935,-83.18275465
+,,837,Acer rubrum,red maple,11.6,35.31068936,-83.18275464
+,,838,Acer rubrum,red maple,13.4,35.31068937,-83.18275463
+,,839,Acer rubrum,red maple,16.6,35.31068938,-83.18275462
+,,840,Acer saccharum,sugar maple,23.6,35.31068939,-83.18275461
+,,841,Magnolia grandiflora,southern magnolia,10,35.3106894,-83.1827546
+,,842,Acer saccharum,sugar maple,24.1,35.31068941,-83.18275459
+,,843,Acer saccharum,sugar maple,25.2,35.31068942,-83.18275458
+,,844,Acer saccharum,sugar maple,,35.31068943,-83.18275457
+,,845,Acer rubrum,red maple,11.7,35.31068944,-83.18275456
+,,846,Acer rubrum,red maple,9.9,35.31068945,-83.18275455
+,,847,Acer rubrum,red maple,11.4,35.31068946,-83.18275454
+,,848,Acer rubrum,red maple,10.5,35.31068947,-83.18275453
+,,849,Zelkova serrata,Japanese zelkova,10.9,35.31068948,-83.18275452
+,,850,Zelkova serrata,Japanese zelkova,11.4,35.31068949,-83.18275451
+,,851,Zelkova serrata,Japanese zelkova,13.4,35.3106895,-83.1827545
+,,852,Quercus phellos,willow oak,39.6,35.31068951,-83.18275449
+,,853,Quercus phellos,willow oak,30.4,35.31068952,-83.18275448
+,,854,Quercus phellos,willow oak,30.6,35.31068953,-83.18275447
+,,855,Zelkova serrata,Japanese zelkova,12.9,35.31068954,-83.18275446
+,,856,Quercus sp.,hybrid oak,15,35.31068955,-83.18275445
+,,857,Zelkova serrata,Japanese zelkova,13.9,35.31068956,-83.18275444
+,,858,Zelkova serrata,Japanese zelkova,11.1,35.31068957,-83.18275443
+,,859,Ginkgo biloba,ginkgo,7.5,35.31068958,-83.18275442
+,,860,Pinus strobus,eastern white pine,31.3,35.31068959,-83.18275441
+,,861,Quercus imbricaria,shingle oak,16.8,35.3106896,-83.1827544
+,,862,Platanus occidentalis,American sycamore,26.8,35.31068961,-83.18275439
+,,863,Platanus occidentalis,American sycamore,35.5,35.31068962,-83.18275438
+,,864,Thuja occidentalis,arborvitae,9.2,35.31068963,-83.18275437
+,,865,Platanus occidentalis,American sycamore,31.9,35.31068964,-83.18275436
+,,866,Malus sp.,common apple,10.9,35.31068965,-83.18275435
+,,867,Acer rubrum,red maple,47.8,35.31068966,-83.18275434
+,,868,Liquidambar styraciflua,sweetgum,24.3,35.31068967,-83.18275433
+,,869,Acer rubrum,red maple,31.4,35.31068968,-83.18275432
+,,870,Liquidambar styraciflua,sweetgum,23.3,35.31068969,-83.18275431
+,,871,Acer saccharum,sugar maple,24.2,35.3106897,-83.1827543
+,,872,Prunus avium,sweet cherry,23.6,35.31068971,-83.18275429
+,,873,Acer saccharum,sugar maple,23.7,35.31068972,-83.18275428
+,,874,Quercus palustris,pin oak,25.3,35.31068973,-83.18275427
+,,875,Acer platanoides,Norway maple,17.4,35.31068974,-83.18275426
+,,876,Acer rubrum,red maple,11.3,35.31068975,-83.18275425
+,,877,Acer rubrum,red maple,15.5,35.31068976,-83.18275424
+,,878,Acer rubrum,red maple,15.2,35.31068977,-83.18275423
+,,879,Populus deltoides,eastern cottonwood,38.9,35.31068978,-83.18275422
+,,880,Acer rubrum,red maple,13.7,35.31068979,-83.18275421
+,,881,Pinus strobus,eastern white pine,33.1,35.3106898,-83.1827542
+,,882,Acer rubrum,red maple,12.5,35.31068981,-83.18275419
+,,883,Acer rubrum,red maple,13.7,35.31068982,-83.18275418
+,,884,Quercus palustris,pin oak,33.4,35.31068983,-83.18275417
+,,885,Acer rubrum,red maple,17.5,35.31068984,-83.18275416
+,,886,Acer rubrum,red maple,24.6,35.31068985,-83.18275415
+,,887,Acer rubrum,red maple,13.4,35.31068986,-83.18275414
+,,888,Quercus palustris,pin oak,32.5,35.31068987,-83.18275413
+,,889,Quercus alba,white oak,46.3,35.31068988,-83.18275412
+,,890,Quercus alba,white oak,11.6,35.31068989,-83.18275411
+,,891,Pinus strobus,eastern white pine,27.1,35.3106899,-83.1827541
+,,892,Acer saccharum,sugar maple,10.5,35.31068991,-83.18275409
+,,893,Acer saccharum,sugar maple,17.7,35.31068992,-83.18275408
+,,894,Betula nigra,river birch,25.7,35.31068993,-83.18275407
+,,895,Betula nigra,river birch,19.9,35.31068994,-83.18275406
+,,896,Cryptomeria japonica,Japanese cryptomeria,26.1,35.31068995,-83.18275405
+,,897,Acer saccharum,sugar maple,14.2,35.31068996,-83.18275404
+,,898,Acer saccharum,sugar maple,19.9,35.31068997,-83.18275403
+,,899,Acer saccharum,sugar maple,21.8,35.31068998,-83.18275402
+,,900,Picea abies,Norway spruce,18.4,35.31068999,-83.18275401
+,,901,Zelkova serrata,Japanese zelkova,10.2,35.31069,-83.182754
+,,902,Quercus phellos,willow oak,12.2,35.31069001,-83.18275399
+,,903,Zelkova serrata,Japanese zelkova,9.6,35.31069002,-83.18275398
+,,904,Salix babylonica,weeping willow,26.4,35.31069003,-83.18275397
+,,905,Zelkova serrata,Japanese zelkova,11.4,35.31069004,-83.18275396
+,,906,Acer rubrum,red maple,22.5,35.31069005,-83.18275395
+,,907,Acer rubrum,red maple,14,35.31069006,-83.18275394
+,,908,Ulmus parvifolia,Chinese elm,11.6,35.31069007,-83.18275393
+,,909,Ulmus parvifolia,Chinese elm,10.6,35.31069008,-83.18275392
+,,910,Ulmus parvifolia,Chinese elm,9.5,35.31069009,-83.18275391
+,,911,Malus sp.,common apple,9.6,35.3106901,-83.1827539
+,,912,Malus sp.,common apple,9.2,35.31069011,-83.18275389
+,,913,Malus sp.,common apple,16.1,35.31069012,-83.18275388
+,,914,Malus sp.,common apple,12.8,35.31069013,-83.18275387
+,,915,Koelreuteria paniculata,goldenraintree,9.1,35.31069014,-83.18275386
+,,916,Prunus pensylvanica,fire cherry,4.7,35.31069015,-83.18275385
+,,917,Pinus strobus,eastern white pine,12.6,35.31069016,-83.18275384
+,,918,Pinus strobus,eastern white pine,20.4,35.31069017,-83.18275383
+,,919,Pinus strobus,eastern white pine,19.4,35.31069018,-83.18275382
+,,920,Pinus strobus,eastern white pine,24.2,35.31069019,-83.18275381
+,,921,Pinus strobus,eastern white pine,19.6,35.3106902,-83.1827538
+,,922,Pinus strobus,eastern white pine,22.7,35.31069021,-83.18275379
+,,923,Pinus strobus,eastern white pine,19.7,35.31069022,-83.18275378
+,,924,Pinus strobus,eastern white pine,20.3,35.31069023,-83.18275377
+,,925,Pinus strobus,eastern white pine,16.4,35.31069024,-83.18275376
+,,926,Pinus strobus,eastern white pine,23.3,35.31069025,-83.18275375
+,,927,Pinus strobus,eastern white pine,18.3,35.31069026,-83.18275374
+,,928,Pinus strobus,eastern white pine,17.5,35.31069027,-83.18275373
+,,929,Pinus strobus,eastern white pine,21.8,35.31069028,-83.18275372
+,,930,Pinus strobus,eastern white pine,21.6,35.31069029,-83.18275371
+,,931,Pinus strobus,eastern white pine,22.9,35.3106903,-83.1827537
+,,932,Pinus strobus,eastern white pine,18.8,35.31069031,-83.18275369
+,,933,Pinus strobus,eastern white pine,24.2,35.31069032,-83.18275368
+,,934,Pinus strobus,eastern white pine,22.9,35.31069033,-83.18275367
+,,935,Pinus strobus,eastern white pine,27,35.31069034,-83.18275366
+,,936,Pinus strobus,eastern white pine,20.5,35.31069035,-83.18275365
+,,937,Pinus strobus,eastern white pine,18.7,35.31069036,-83.18275364
+,,938,Pinus strobus,eastern white pine,13.6,35.31069037,-83.18275363
+,,939,Pinus strobus,eastern white pine,12.5,35.31069038,-83.18275362
+,,940,Pinus strobus,eastern white pine,10.5,35.31069039,-83.18275361
+,,941,Pinus strobus,eastern white pine,15.4,35.3106904,-83.1827536
+,,942,Pinus strobus,eastern white pine,13.8,35.31069041,-83.18275359
+,,943,Pinus strobus,eastern white pine,20.2,35.31069042,-83.18275358
+,,944,Pinus strobus,eastern white pine,10,35.31069043,-83.18275357
+,,945,Pinus strobus,eastern white pine,15.3,35.31069044,-83.18275356
+,,946,Pinus strobus,eastern white pine,10.2,35.31069045,-83.18275355
+,,947,Pinus strobus,eastern white pine,11,35.31069046,-83.18275354
+,,948,Pinus strobus,eastern white pine,13.2,35.31069047,-83.18275353
+,,949,Pinus strobus,eastern white pine,13,35.31069048,-83.18275352
+,,950,Pinus strobus,eastern white pine,10,35.31069049,-83.18275351
+,,951,Pinus strobus,eastern white pine,15.3,35.3106905,-83.1827535
+,,952,Pinus strobus,eastern white pine,14,35.31069051,-83.18275349
+,,953,Pinus strobus,eastern white pine,10.4,35.31069052,-83.18275348
+,,954,Pinus strobus,eastern white pine,15.8,35.31069053,-83.18275347
+,,955,Pinus strobus,eastern white pine,17.1,35.31069054,-83.18275346
+,,956,Pinus strobus,eastern white pine,16.8,35.31069055,-83.18275345
+,,957,Pinus strobus,eastern white pine,9.6,35.31069056,-83.18275344
+,,958,Pinus strobus,eastern white pine,13.8,35.31069057,-83.18275343
+,,959,Pinus strobus,eastern white pine,17.9,35.31069058,-83.18275342
+,,960,Pinus strobus,eastern white pine,13,35.31069059,-83.18275341
+,,961,Pinus strobus,eastern white pine,11.5,35.3106906,-83.1827534
+,,962,Pinus strobus,eastern white pine,17.1,35.31069061,-83.18275339
+,,963,Pinus strobus,eastern white pine,13,35.31069062,-83.18275338
+,,964,Pinus strobus,eastern white pine,14.6,35.31069063,-83.18275337
+,,965,Pinus strobus,eastern white pine,17,35.31069064,-83.18275336
+,,966,Pinus strobus,eastern white pine,19.2,35.31069065,-83.18275335
+,,967,Pinus strobus,eastern white pine,10.2,35.31069066,-83.18275334
+,,968,Pinus strobus,eastern white pine,14.4,35.31069067,-83.18275333
+,,969,Pinus strobus,eastern white pine,19.8,35.31069068,-83.18275332
+,,970,Pinus strobus,eastern white pine,11.2,35.31069069,-83.18275331
+,,971,Pinus strobus,eastern white pine,18.9,35.3106907,-83.1827533
+,,972,Pinus strobus,eastern white pine,17.9,35.31069071,-83.18275329
+,,973,Pinus strobus,eastern white pine,27.6,35.31069072,-83.18275328
+,,974,Pinus strobus,eastern white pine,14.3,35.31069073,-83.18275327
+,,975,Pinus strobus,eastern white pine,16.5,35.31069074,-83.18275326
+,,976,Pinus strobus,eastern white pine,9.9,35.31069075,-83.18275325
+,,977,Pinus strobus,eastern white pine,13.3,35.31069076,-83.18275324
+,,978,Pinus strobus,eastern white pine,11.4,35.31069077,-83.18275323
+,,979,Pinus strobus,eastern white pine,18.6,35.31069078,-83.18275322
+,,980,Pinus strobus,eastern white pine,15.6,35.31069079,-83.18275321
+,,981,Pinus strobus,eastern white pine,14.8,35.3106908,-83.1827532
+,,982,Pinus strobus,eastern white pine,10.8,35.31069081,-83.18275319
+,,983,Pinus strobus,eastern white pine,10.5,35.31069082,-83.18275318
+,,984,Pinus strobus,eastern white pine,14.2,35.31069083,-83.18275317
+,,985,Pinus strobus,eastern white pine,15,35.31069084,-83.18275316
+,,986,Pinus strobus,eastern white pine,10.4,35.31069085,-83.18275315
+,,987,Pinus strobus,eastern white pine,16.2,35.31069086,-83.18275314
+,,988,Pinus strobus,eastern white pine,17.4,35.31069087,-83.18275313
+,,989,Pinus strobus,eastern white pine,15.5,35.31069088,-83.18275312
+,,990,Pinus strobus,eastern white pine,12,35.31069089,-83.18275311
+,,991,Pinus strobus,eastern white pine,16.1,35.3106909,-83.1827531
+,,992,Pinus strobus,eastern white pine,14.6,35.31069091,-83.18275309
+,,993,Pinus strobus,eastern white pine,13.7,35.31069092,-83.18275308
+,,994,Pinus strobus,eastern white pine,13.6,35.31069093,-83.18275307
+,,995,Pinus strobus,eastern white pine,11.5,35.31069094,-83.18275306
+,,996,Pinus strobus,eastern white pine,12.4,35.31069095,-83.18275305
+,,997,Pinus strobus,eastern white pine,19.6,35.31069096,-83.18275304
+,,998,Pinus strobus,eastern white pine,10.8,35.31069097,-83.18275303
+,,999,Pinus strobus,eastern white pine,9.1,35.31069098,-83.18275302
+,,1000,Pinus strobus,eastern white pine,13.6,35.31069099,-83.18275301
+,,1001,Pinus strobus,eastern white pine,12.3,35.310691,-83.182753
+,,1002,Pinus strobus,eastern white pine,10.4,35.31069101,-83.18275299
+,,1003,Pinus strobus,eastern white pine,14.6,35.31069102,-83.18275298
+,,1004,Pinus strobus,eastern white pine,13.6,35.31069103,-83.18275297
+,,1005,Pinus strobus,eastern white pine,11.8,35.31069104,-83.18275296
+,,1006,Pinus strobus,eastern white pine,10,35.31069105,-83.18275295
+,,1007,Pinus strobus,eastern white pine,15.6,35.31069106,-83.18275294
+,,1008,Pinus strobus,eastern white pine,11.9,35.31069107,-83.18275293
+,,1009,Pinus strobus,eastern white pine,15.4,35.31069108,-83.18275292
+,,1010,Pinus strobus,eastern white pine,9.5,35.31069109,-83.18275291
+,,1011,Pinus strobus,eastern white pine,14.1,35.3106911,-83.1827529
+,,1012,Pinus strobus,eastern white pine,10.7,35.31069111,-83.18275289
+,,1013,Pinus strobus,eastern white pine,16.2,35.31069112,-83.18275288
+,,1014,Pinus strobus,eastern white pine,10.4,35.31069113,-83.18275287
+,,1015,Pinus strobus,eastern white pine,16.6,35.31069114,-83.18275286
+,,1016,Pinus strobus,eastern white pine,10.2,35.31069115,-83.18275285
+,,1017,Pinus strobus,eastern white pine,15.4,35.31069116,-83.18275284
+,,1018,Pinus strobus,eastern white pine,12.7,35.31069117,-83.18275283
+,,1019,Pinus strobus,eastern white pine,19.6,35.31069118,-83.18275282
+,,1020,Pinus strobus,eastern white pine,13.1,35.31069119,-83.18275281
+,,1021,Pinus strobus,eastern white pine,16.5,35.3106912,-83.1827528
+,,1022,Pinus strobus,eastern white pine,12.3,35.31069121,-83.18275279
+,,1023,Pinus strobus,eastern white pine,18.3,35.31069122,-83.18275278
+,,1024,Pinus strobus,eastern white pine,10.3,35.31069123,-83.18275277
+,,1025,Pinus strobus,eastern white pine,13.2,35.31069124,-83.18275276
+,,1026,Pinus strobus,eastern white pine,14.7,35.31069125,-83.18275275
+,,1027,Pinus strobus,eastern white pine,12.3,35.31069126,-83.18275274
+,,1028,Pinus strobus,eastern white pine,10.2,35.31069127,-83.18275273
+,,1029,Pinus strobus,eastern white pine,10.3,35.31069128,-83.18275272
+,,1030,Pinus strobus,eastern white pine,13.6,35.31069129,-83.18275271
+,,1031,Pinus strobus,eastern white pine,9.7,35.3106913,-83.1827527
+,,1032,Pinus strobus,eastern white pine,9.8,35.31069131,-83.18275269
+,,1033,Pinus strobus,eastern white pine,11.9,35.31069132,-83.18275268
+,,1034,Pinus strobus,eastern white pine,14,35.31069133,-83.18275267
+,,1035,Pinus strobus,eastern white pine,11.3,35.31069134,-83.18275266
+,,1036,Pinus strobus,eastern white pine,9.9,35.31069135,-83.18275265
+,,1037,Pinus strobus,eastern white pine,15.2,35.31069136,-83.18275264
+,,1038,Pinus strobus,eastern white pine,12.7,35.31069137,-83.18275263
+,,1039,Pinus strobus,eastern white pine,9.1,35.31069138,-83.18275262
+,,1040,Pinus strobus,eastern white pine,15.7,35.31069139,-83.18275261
+,,1041,Pinus strobus,eastern white pine,11.4,35.3106914,-83.1827526
+,,1042,Pinus strobus,eastern white pine,16.5,35.31069141,-83.18275259
+,,1043,Pinus strobus,eastern white pine,18,35.31069142,-83.18275258
+,,1044,Pinus strobus,eastern white pine,11.1,35.31069143,-83.18275257
+,,1045,Pinus strobus,eastern white pine,17.1,35.31069144,-83.18275256
+,,1046,Pinus strobus,eastern white pine,15.1,35.31069145,-83.18275255
+,,1047,Pinus strobus,eastern white pine,10.1,35.31069146,-83.18275254
+,,1048,Pinus strobus,eastern white pine,13.7,35.31069147,-83.18275253
+,,1049,Pinus strobus,eastern white pine,13.5,35.31069148,-83.18275252
+,,1050,Pinus strobus,eastern white pine,14,35.31069149,-83.18275251
+,,1051,Pinus strobus,eastern white pine,12,35.3106915,-83.1827525
+,,1052,Pinus strobus,eastern white pine,15.2,35.31069151,-83.18275249
+,,1053,Pinus strobus,eastern white pine,10.2,35.31069152,-83.18275248
+,,1054,Pinus strobus,eastern white pine,11.4,35.31069153,-83.18275247
+,,1055,Pinus strobus,eastern white pine,12.4,35.31069154,-83.18275246
+,,1056,Pinus strobus,eastern white pine,15.3,35.31069155,-83.18275245
+,,1057,Pinus strobus,eastern white pine,18,35.31069156,-83.18275244
+,,1058,Pinus strobus,eastern white pine,21.8,35.31069157,-83.18275243
+,,1059,Pinus strobus,eastern white pine,14.6,35.31069158,-83.18275242
+,,1060,Pinus strobus,eastern white pine,16.5,35.31069159,-83.18275241
+,,1061,Pinus strobus,eastern white pine,13.5,35.3106916,-83.1827524
+,,1062,Pinus strobus,eastern white pine,18,35.31069161,-83.18275239
+,,1063,Pinus strobus,eastern white pine,9.4,35.31069162,-83.18275238
+,,1064,Pinus strobus,eastern white pine,11.4,35.31069163,-83.18275237
+,,1065,Pinus strobus,eastern white pine,13.3,35.31069164,-83.18275236
+,,1066,Pinus strobus,eastern white pine,18.9,35.31069165,-83.18275235
+,,1067,Pinus strobus,eastern white pine,17.8,35.31069166,-83.18275234
+,,1068,Pinus strobus,eastern white pine,14.7,35.31069167,-83.18275233
+,,1069,Pinus strobus,eastern white pine,17,35.31069168,-83.18275232
+,,1070,Pinus strobus,eastern white pine,20.3,35.31069169,-83.18275231
+,,1071,Pinus strobus,eastern white pine,18.4,35.3106917,-83.1827523
+,,1072,Pinus strobus,eastern white pine,22.2,35.31069171,-83.18275229
+,,1073,Pinus strobus,eastern white pine,21.2,35.31069172,-83.18275228
+,,1074,Pinus strobus,eastern white pine,20.3,35.31069173,-83.18275227
+,,1075,Pinus strobus,eastern white pine,16.7,35.31069174,-83.18275226
+,,1076,Pinus strobus,eastern white pine,17.8,35.31069175,-83.18275225
+,,1077,Pinus strobus,eastern white pine,10.1,35.31069176,-83.18275224
+,,1078,Pinus strobus,eastern white pine,19.9,35.31069177,-83.18275223
+,,1079,Pinus strobus,eastern white pine,16.8,35.31069178,-83.18275222
+,,1080,Pinus strobus,eastern white pine,17.8,35.31069179,-83.18275221
+,,1081,Pinus strobus,eastern white pine,24.1,35.3106918,-83.1827522
+,,1082,Pinus strobus,eastern white pine,24.9,35.31069181,-83.18275219
+,,1083,Pinus strobus,eastern white pine,18.5,35.31069182,-83.18275218
+,,1084,Pinus strobus,eastern white pine,22.5,35.31069183,-83.18275217
+,,1085,Pinus strobus,eastern white pine,24.1,35.31069184,-83.18275216
+,,1086,Pinus strobus,eastern white pine,21.3,35.31069185,-83.18275215
+,,1087,Pinus strobus,eastern white pine,19.7,35.31069186,-83.18275214
+,,1088,Pinus strobus,eastern white pine,24.5,35.31069187,-83.18275213
+,,1089,Acer rubrum,red maple,34,35.31069188,-83.18275212
+,,1090,Platanus occidentalis,American sycamore,36.1,35.31069189,-83.18275211
+,,1091,Quercus phellos,willow oak,31.4,35.3106919,-83.1827521
+,,1092,Quercus phellos,willow oak,35.2,35.31069191,-83.18275209
+,,1093,Juglans nigra,black walnut,13.8,35.31069192,-83.18275208
+,,1094,Ilex opaca,American holly,10,35.31069193,-83.18275207
+,,1095,Tsuga canadensis,eastern hemlock,14.2,35.31069194,-83.18275206
+,,1096,Tsuga canadensis,eastern hemlock,18,35.31069195,-83.18275205
+,,1097,Tsuga canadensis,eastern hemlock,12,35.31069196,-83.18275204
+,,1098,Quercus coccinea,scarlet oak,28.9,35.31069197,-83.18275203
+,,1099,Tsuga canadensis,eastern hemlock,10,35.31069198,-83.18275202
+,,1100,Quercus coccinea,scarlet oak,21.4,35.31069199,-83.18275201
+,,1101,Tsuga canadensis,eastern hemlock,22.2,35.310692,-83.182752
+,,1102,Tsuga canadensis,eastern hemlock,11.2,35.31069201,-83.18275199
+,,1103,Juglans nigra,black walnut,10.2,35.31069202,-83.18275198
+,,1104,Ilex opaca,American holly,11.2,35.31069203,-83.18275197
+,,1105,Robinia pseudoacacia,black locust,11.9,35.31069204,-83.18275196
+,,1106,Robinia pseudoacacia,black locust,14.7,35.31069205,-83.18275195
+,,1107,Robinia pseudoacacia,black locust,13.9,35.31069206,-83.18275194
+,,1108,Robinia pseudoacacia,black locust,14.3,35.31069207,-83.18275193
+,,1109,Ligustrum sinense,Chinese privet,10.3,35.31069208,-83.18275192
+,,1110,Robinia pseudoacacia,black locust,19.2,35.31069209,-83.18275191
+,,1111,Robinia pseudoacacia,black locust,23.5,35.3106921,-83.1827519
+,,1112,Robinia pseudoacacia,black locust,10.6,35.31069211,-83.18275189
+,,1113,Robinia pseudoacacia,black locust,10.6,35.31069212,-83.18275188
+,,1114,Robinia pseudoacacia,black locust,13.4,35.31069213,-83.18275187
+,,1115,Robinia pseudoacacia,black locust,10,35.31069214,-83.18275186
+,,1116,Liriodendron tulipifera,yellow poplar,31.5,35.31069215,-83.18275185
+,,1117,Robinia pseudoacacia,black locust,9.5,35.31069216,-83.18275184
+,,1118,Robinia pseudoacacia,black locust,11.5,35.31069217,-83.18275183
+,,1119,Robinia pseudoacacia,black locust,10.2,35.31069218,-83.18275182
+,,1120,Robinia pseudoacacia,black locust,16.3,35.31069219,-83.18275181
+,,1121,Acer saccharum,sugar maple,15.5,35.3106922,-83.1827518
+,,1122,Tsuga canadensis,eastern hemlock,9.5,35.31069221,-83.18275179
+,,1123,Tsuga canadensis,eastern hemlock,11.7,35.31069222,-83.18275178
+,,1124,Tsuga canadensis,eastern hemlock,11.2,35.31069223,-83.18275177
+,,1125,Tsuga canadensis,eastern hemlock,14.1,35.31069224,-83.18275176
+,,1126,Acer saccharum,sugar maple,22.4,35.31069225,-83.18275175
+,,1127,Acer negundo,boxelder maple,9.5,35.31069226,-83.18275174
+,,1128,Acer negundo,boxelder maple,11.8,35.31069227,-83.18275173
+,,1129,Acer negundo,boxelder maple,20.8,35.31069228,-83.18275172
+,,1130,Acer negundo,boxelder maple,11.6,35.31069229,-83.18275171
+,,1131,Betula nigra,river birch,13,35.3106923,-83.1827517
+,,1132,Betula nigra,river birch,16.3,35.31069231,-83.18275169
+,,1133,Betula nigra,river birch,13.3,35.31069232,-83.18275168
+,,1134,Betula nigra,river birch,13.7,35.31069233,-83.18275167
+,,1135,Acer saccharum,sugar maple,14.8,35.31069234,-83.18275166
+,,1136,Acer saccharum,sugar maple,14.7,35.31069235,-83.18275165
+,,1137,Acer saccharum,sugar maple,9.8,35.31069236,-83.18275164
+,,1138,Taxodium distichum,baldcypress,17.6,35.31069237,-83.18275163
+,,1139,Taxodium distichum,baldcypress,20.3,35.31069238,-83.18275162
+,,1140,Taxodium distichum,baldcypress,19.3,35.31069239,-83.18275161
+,,1141,Betula nigra,river birch,11.8,35.3106924,-83.1827516
+,,1142,Betula nigra,river birch,11.7,35.31069241,-83.18275159
+,,1143,Betula nigra,river birch,10.8,35.31069242,-83.18275158
+,,1144,Betula nigra,river birch,10.5,35.31069243,-83.18275157
+,,1145,Betula nigra,river birch,10.9,35.31069244,-83.18275156
+,,1146,Betula nigra,river birch,9.3,35.31069245,-83.18275155
+,,1147,Betula nigra,river birch,10.1,35.31069246,-83.18275154
+,,1148,Betula nigra,river birch,13.5,35.31069247,-83.18275153
+,,1149,Acer saccharum,sugar maple,24,35.31069248,-83.18275152
+,,1150,Acer saccharum,sugar maple,12.1,35.31069249,-83.18275151
+,,1151,Acer saccharum,sugar maple,9.4,35.3106925,-83.1827515
+,,1152,Fraxinus pennsylvanica,green ash,13.6,35.31069251,-83.18275149
+,,1153,Acer rubrum,red maple,11.3,35.31069252,-83.18275148
+,,1154,Fraxinus pennsylvanica,green ash,12.5,35.31069253,-83.18275147
+,,1155,Betula nigra,river birch,10.4,35.31069254,-83.18275146
+,,1156,Betula nigra,river birch,11.4,35.31069255,-83.18275145
+,,1157,Acer rubrum,red maple,13.1,35.31069256,-83.18275144
+,,1158,Acer saccharum,sugar maple,17.6,35.31069257,-83.18275143
+,,1159,Acer rubrum,red maple,22.1,35.31069258,-83.18275142
+,,1160,Acer rubrum,red maple,20.4,35.31069259,-83.18275141
+,,1161,Cladrastis kentukea,yellowwood,13.9,35.3106926,-83.1827514
+,,1162,Cladrastis kentukea,yellowwood,21.9,35.31069261,-83.18275139
+,,1163,Acer rubrum,red maple,10.9,35.31069262,-83.18275138
+,,1164,Acer rubrum,red maple,12.9,35.31069263,-83.18275137
+,,1165,Acer saccharum,sugar maple,15.7,35.31069264,-83.18275136
+,,1166,Acer saccharum,sugar maple,22.7,35.31069265,-83.18275135
+,,1167,Populus deltoides,eastern cottonwood,10.4,35.31069266,-83.18275134
+,,1168,Acer saccharum,sugar maple,20,35.31069267,-83.18275133
+,,1169,Acer saccharum,sugar maple,15.3,35.31069268,-83.18275132
+,,1170,Acer saccharum,sugar maple,21.6,35.31069269,-83.18275131
+,,1171,Acer saccharum,sugar maple,11.5,35.3106927,-83.1827513
+,,1172,Acer saccharum,sugar maple,17.5,35.31069271,-83.18275129
+,,1173,Juglans nigra,black walnut,18.6,35.31069272,-83.18275128
+,,1174,Juglans nigra,black walnut,20.8,35.31069273,-83.18275127
+,,1175,Juglans nigra,black walnut,15.2,35.31069274,-83.18275126
+,,1176,Quercus imbricaria,shingle oak,19,35.31069275,-83.18275125
+,,1177,Carya tomentosa,mockernut hickory,19.2,35.31069276,-83.18275124
+,,1178,Robinia pseudoacacia,black locust,18.6,35.31069277,-83.18275123
+,,1179,Robinia pseudoacacia,black locust,14.5,35.31069278,-83.18275122
+,,1180,Carya tomentosa,mockernut hickory,20.8,35.31069279,-83.18275121
+,,1181,Carya glabra,pignut hickory,22.4,35.3106928,-83.1827512
+,,1182,Liriodendron tulipifera,yellow poplar,38.6,35.31069281,-83.18275119
+,,1183,Carya tomentosa,mockernut hickory,14.6,35.31069282,-83.18275118
+,,1184,Quercus velutina,black oak,15.6,35.31069283,-83.18275117
+,,1185,Acer rubrum,red maple,17.1,35.31069284,-83.18275116
+,,1186,Acer saccharum,sugar maple,17.3,35.31069285,-83.18275115
+,,1187,Acer saccharum,sugar maple,13.1,35.31069286,-83.18275114
+,,1188,Acer saccharum,sugar maple,11.3,35.31069287,-83.18275113
+,,1189,Nyssa sylvatica,blackgum,12.9,35.31069288,-83.18275112
+,,1190,Picea abies,Norway spruce,23.5,35.31069289,-83.18275111
+,,1191,Acer rubrum,red maple,16,35.3106929,-83.1827511
+,,1192,Cladrastis kentukea,yellowwood,13.9,35.31069291,-83.18275109
+,,1193,Cladrastis kentukea,yellowwood,21.9,35.31069292,-83.18275108
+,,1194,Picea abies,Norway spruce,17,35.31069293,-83.18275107
+,,1195,Picea abies,Norway spruce,22,35.31069294,-83.18275106
+,,1196,Picea abies,Norway spruce,12,35.31069295,-83.18275105
+,,1197,Juglans nigra,black walnut,26.1,35.31069296,-83.18275104
+,,1198,Juglans nigra,black walnut,22.7,35.31069297,-83.18275103
+,,1199,Juglans nigra,black walnut,20.2,35.31069298,-83.18275102
+,,1200,Juglans nigra,black walnut,11.5,35.31069299,-83.18275101
+,,1201,Juglans nigra,black walnut,12.5,35.310693,-83.182751
+,,1202,Juglans nigra,black walnut,16.1,35.31069301,-83.18275099
+,,1203,Juglans nigra,black walnut,9.2,35.31069302,-83.18275098
+,,1204,Juglans nigra,black walnut,6.4,35.31069303,-83.18275097
+,,1205,Liriodendron tulipifera,yellow poplar,9.6,35.31069304,-83.18275096
+,,1206,Juglans nigra,black walnut,15.4,35.31069305,-83.18275095
+,,1207,Juglans nigra,black walnut,19.1,35.31069306,-83.18275094
+,,1208,Juglans nigra,black walnut,20.6,35.31069307,-83.18275093
+,,1209,Juglans nigra,black walnut,19.7,35.31069308,-83.18275092
+,,1210,Quercus imbricaria,shingle oak,24.5,35.31069309,-83.18275091
+,,1211,Juglans nigra,black walnut,17.9,35.3106931,-83.1827509
+,,1212,Liriodendron tulipifera,yellow poplar,13.9,35.31069311,-83.18275089
+,,1213,Juglans nigra,black walnut,19,35.31069312,-83.18275088
+,,1214,Juglans nigra,black walnut,27.5,35.31069313,-83.18275087
+,,1215,Juglans nigra,black walnut,25.8,35.31069314,-83.18275086
+,,1216,Robinia pseudoacacia,black locust,29.4,35.31069315,-83.18275085
+,,1217,Thuja occidentalis,arborvitae,10.2,35.31069316,-83.18275084
+,,1218,Thuja occidentalis,arborvitae,9.6,35.31069317,-83.18275083
+,,1219,Thuja occidentalis,arborvitae,9.8,35.31069318,-83.18275082
+,,1220,Thuja occidentalis,arborvitae,11,35.31069319,-83.18275081
+,,1221,Tsuga canadensis,eastern hemlock,16.7,35.3106932,-83.1827508
+,,1222,Pinus strobus,eastern white pine,17.1,35.31069321,-83.18275079
+,,1223,Pinus strobus,eastern white pine,16.3,35.31069322,-83.18275078
+,,1224,Pinus strobus,eastern white pine,17.8,35.31069323,-83.18275077
+,,1225,Thuja occidentalis,arborvitae,9.4,35.31069324,-83.18275076
+,,1226,Thuja occidentalis,arborvitae,9.3,35.31069325,-83.18275075
