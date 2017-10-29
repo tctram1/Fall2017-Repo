@@ -1,5 +1,6 @@
 {
   "name": "genki-quiz",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "c1b4e61e",
+  "type": "ionic-angular",
+  "integrations": {}
 }
