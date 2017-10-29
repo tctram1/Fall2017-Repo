@@ -1,5 +1,6 @@
 {
   "name": "kid-quiz",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "9ae16d99",
+  "type": "ionic-angular",
+  "integrations": {}
 }
