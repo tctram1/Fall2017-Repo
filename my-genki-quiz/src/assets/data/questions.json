@@ -1,0 +1,204 @@
+{
+    "questions": [
+ 
+        {
+            "flashCardFront": "おはよう",
+            "flashCardBack": "Good morning",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Good morning", "correct": true, "selected": false},
+                {"answer": "Good afternoon", "correct": false, "selected": false},
+                {"answer": "How are you?", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "おはようございます",
+            "flashCardBack": "Good morning (Polite)",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Good morning (Polite)", "correct": true, "selected": false},
+                {"answer": "Good afternoon", "correct": false, "selected": false},
+                {"answer": "Thank you", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "こんにちは",
+            "flashCardBack": "Good afternoon",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Good afternoon", "correct": true, "selected": false},
+                {"answer": "Good morning", "correct": false, "selected": false},
+                {"answer": "Thank you for the meal (before)", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "こんばんは",
+            "flashCardBack": "Good evening",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Good evening", "correct": true, "selected": false},
+                {"answer": "Goodbye", "correct": false, "selected": false},
+                {"answer": "Thank you", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "さようなら",
+            "flashCardBack": "Goodbye",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Goodbye", "correct": true, "selected": false},
+                {"answer": "Nice to meet you", "correct": false, "selected": false},
+                {"answer": "Thank you", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "おやすみ（なさい）",
+            "flashCardBack": "Goodnight",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Goodnight", "correct": true, "selected": false},
+                {"answer": "Thank you for the meal (after)", "correct": false, "selected": false},
+                {"answer": "Good morning", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "ありがとう",
+            "flashCardBack": "Thank you",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Thank you", "correct": true, "selected": false},
+                {"answer": "Good afternoon", "correct": false, "selected": false},
+                {"answer": "I'll go & come back", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "ありがとうございます",
+            "flashCardBack": "Thank you (Polite)",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Thank you (Polite)", "correct": true, "selected": false},
+                {"answer": "Good morning", "correct": false, "selected": false},
+                {"answer": "Sorry; Excuse me", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "すみません",
+            "flashCardBack": "Sorry; Excuse me",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Sorry; Excuse me", "correct": true, "selected": false},
+                {"answer": "Thank you for the meal (after)", "correct": false, "selected": false},
+                {"answer": "How are you?", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "いいえ",
+            "flashCardBack": "No; not at all",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "No; not at all", "correct": true, "selected": false},
+                {"answer": "Thank you (Polite)", "correct": false, "selected": false},
+                {"answer": "Goodbye", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "いってきます",
+            "flashCardBack": "I'll go & come back",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "I'll go & come back", "correct": true, "selected": false},
+                {"answer": "Sorry; Excuse me", "correct": false, "selected": false},
+                {"answer": "Good evening", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "いってらっしゃい",
+            "flashCardBack": "Please go & come back",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Please go & come back", "correct": true, "selected": false},
+                {"answer": "Good afternoon", "correct": false, "selected": false},
+                {"answer": "I'll go & come back", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "ただいま",
+            "flashCardBack": "I'm home",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "I'm home", "correct": true, "selected": false},
+                {"answer": "Please go & come back", "correct": false, "selected": false},
+                {"answer": "Thank you", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "おかえり（なさい）",
+            "flashCardBack": "Welcome home",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Welcome home", "correct": true, "selected": false},
+                {"answer": "I'm home", "correct": false, "selected": false},
+                {"answer": "How are you?", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "いただきます",
+            "flashCardBack": "Thank you for the meal (before)",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Thank you for the meal (before)", "correct": true, "selected": false},
+                {"answer": "Thank you for the meal (after)", "correct": false, "selected": false},
+                {"answer": "Goodnight", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "ごちそうさま（でした）",
+            "flashCardBack": "Thank you for the meal (after)",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Thank you for the meal (after)", "correct": true, "selected": false},
+                {"answer": "Thank you for the meal (before)", "correct": false, "selected": false},
+                {"answer": "Nice to meet you", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "はじめまして",
+            "flashCardBack": "How are you?",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "How are you?", "correct": true, "selected": false},
+                {"answer": "Good afternoon", "correct": false, "selected": false},
+                {"answer": "Thank you (Polite)", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "よろしくおねがいします",
+            "flashCardBack": "Nice to meet you",
+            "flashCardFlipped": false,
+            "questionText": "Translate",
+            "answers": [
+                {"answer": "Nice to meet you", "correct": true, "selected": false},
+                {"answer": "I'm home", "correct": false, "selected": false},
+                {"answer": "Goodbye", "correct": false, "selected": false}
+            ]
+        }
+ 
+    ] 
+}
