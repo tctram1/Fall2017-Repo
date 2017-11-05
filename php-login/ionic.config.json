@@ -1,6 +1,5 @@
 {
   "name": "php-login",
-  "app_id": "71527f45",
-  "type": "ionic-angular",
-  "integrations": {}
+  "app_id": "",
+  "type": "ionic-angular"
 }
