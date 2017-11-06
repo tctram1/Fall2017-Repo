@@ -1,39 +1,35 @@
 <ion-content>
+
+  <div class="controls">
+      <button color="light" ion-button (click)="setDay()">Day</button>
+      <button color="light" ion-button (click)="setCloudy()">Cloudy</button>
+      <button color="light" ion-button (click)="setSunset()">Sunset</button>
+      <button color="light" ion-button (click)="setNight()">Night</button>
+  </div>
   
   <svg class="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1242 2208">
 
     <defs>
       <style type="text/css">
-        .cls-1{fill:url(#linear-gradient);stroke:#000000;stroke-miterlimit:10;}
+        .cls-1{fill:url(#linear-gradient);}
         .cls-2{opacity:0.1;fill:#FFF4BB;}
         .cls-3{fill:#F2DA51;}
         .cls-4, .cls-5{fill:#FFFFFF;}
-        .cls-4{opacity:0.95}
+        .cls-4{opacity:0.95;}
       </style>
 
-      <linearGradient id="linear-gradient" gradientUnits="userSpaceOnUse" x1="620.5" y1="2207.5" x2="620.5" y2="-0.5">
-        <stop  offset="0" style="stop-color:#FFFFFF"/>
-        <stop  offset="0.158" style="stop-color:#D4EAF9"/>
-        <stop  offset="0.3599" style="stop-color:#A3D3F2"/>
-        <stop  offset="0.5517" style="stop-color:#7DC1ED"/>
-        <stop  offset="0.7278" style="stop-color:#62B4E9"/>
-        <stop  offset="0.8828" style="stop-color:#51ACE7"/>
-        <stop  offset="1" style="stop-color:#4BA9E6"/>
+      <linearGradient id="linear-gradient" x1="375" y1="1334" x2="375" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="1" stop-color="#50a7dd"/>
       </linearGradient>
 
     </defs>
 
-    <title>Sunset SVG</title>
-    <rect class="cls-1" x="-0.5" y="-0.5" width="1242" height="2208"/>
+    <title>sunsetsvg</title>
+    <rect id="Sky-2" data-name="Sky" class="cls-1" x="-0.5" y="-0.5" width="1242" height="2208"/>
     <g id="Sun" data-name="Sun">
       <circle class="cls-3" cx="621.5" cy="555.5" r="261.5"/>
-
-      <path class="cls-2" d="M621.5,1032c-64.26,0-126.68-12.62-185.52-37.51c-56.76-24.01-107.7-58.34-151.42-102.06
-			c-43.71-43.71-78.05-94.66-102.06-151.42C157.62,682.18,145,619.76,145,555.5s12.62-126.68,37.51-185.52
-			c24.01-56.76,58.34-107.7,102.06-151.42c43.71-43.71,94.66-78.05,151.42-102.06C494.82,91.62,557.24,79,621.5,79
-			s126.68,12.62,185.52,37.51c56.76,24.01,107.7,58.34,151.42,102.06c43.71,43.71,78.05,94.66,102.06,151.42
-			c24.89,58.84,37.51,121.26,37.51,185.52s-12.62,126.68-37.51,185.52c-24.01,56.76-58.34,107.7-102.06,151.42
-			c-43.71,43.71-94.66,78.05-151.42,102.06C748.18,1019.38,685.76,1032,621.5,1032z"/>     
+      <circle class="cls-2" cx="621.5" cy="555.5" r="482.5"/>     
     </g>
 
     <g id="Clouds">
@@ -62,5 +58,7 @@
     </g>
 
   </svg>
+
+  <div class="time">{{timeString}}</div>
 
 </ion-content>
