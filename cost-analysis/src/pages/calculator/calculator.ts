@@ -16,6 +16,8 @@ export class CalculatorPage {
   price3;
   total;
 
+  row: any[];
+
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
@@ -32,14 +34,34 @@ export class CalculatorPage {
   }
   // End of Adding Row Function
 
-  //Start of calculateResult()
-  calculateResult() {
+
+  // //Start of getTotal()
+  getTotal() {
     this.total = (this.quantity1 * this.price1)
                 + (this.quantity2 * this.price2)
                 + (this.quantity3 * this.price3);
     console.log('total = ' + this.total);
-  } 
-  // End of caculateResult()
+  } // End of getTotal()
+
+
+  // //Start of getTotal()
+  // $scope.getTotal = function($scope) {
+  //   var total = 0;
+  //   for (var i = 0; i < $scope.rows.length; i++) {
+  //     var row = $scope.rows[i];
+  //     total += (row.price * row.quantity);
+  //   }
+  // } // End of getTotal()
+
+
+  // //Start of getTotal()
+  // getTotal = function($scope) {
+  //   var total = 0;
+  //   for (var i = 0; i < $scope.row.length; i++) {
+  //     var row = $scope.row[i];
+  //     total += (row.price * row.quantity);
+  //   }
+  // } // End of getTotal()
 
 
 

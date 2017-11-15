@@ -27,6 +27,7 @@
           <th>Item</th>
           <th>Qty.</th>
           <th>Price</th>
+          <th>Amount</th>
         </tr>
 
         <tr>
@@ -42,7 +43,12 @@
           </td>
           <td>
             <ion-item>
-                <ion-input type="text" placeholder="Price" [(ngModel)]="price1"></ion-input>
+                <ion-input type="text" placeholder="Price" [(ngModel)]="price1" (ngModelChange)="amount1=quantity1*price1"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Amount" [(ngModel)]="amount1"></ion-input>
             </ion-item>
           </td>
         </tr>
@@ -60,7 +66,12 @@
           </td>
           <td>
             <ion-item>
-                <ion-input type="text" placeholder="Price" [(ngModel)]="price2"></ion-input>
+                <ion-input type="text" placeholder="Price" [(ngModel)]="price2" (ngModelChange)="amount2=quantity2*price2"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Amount" [(ngModel)]="amount2"></ion-input>
             </ion-item>
           </td>
         </tr>
@@ -78,7 +89,12 @@
           </td>
           <td>
             <ion-item>
-                <ion-input type="text" placeholder="Price" [(ngModel)]="price3"></ion-input>
+                <ion-input type="text" placeholder="Price" [(ngModel)]="price3" (ngModelChange)="amount3=quantity3*price3"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Amount" [(ngModel)]="amount3"></ion-input>
             </ion-item>
           </td>
         </tr>
@@ -91,12 +107,17 @@
           </td>
           <td>
             <ion-item>
-                <ion-input type="text" placeholder="Qty."></ion-input>
+                <ion-input type="text" placeholder="Qty." [(ngModel)]="quantity"></ion-input>
             </ion-item>
           </td>
           <td>
             <ion-item>
-                <ion-input type="text" placeholder="Price"></ion-input>
+                <ion-input type="text" placeholder="Price" [(ngModel)]="price" (ngModelChange)="amount=quantity*price"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Amount" [(ngModel)]="amount"></ion-input>
             </ion-item>
           </td>
         </tr>
@@ -108,7 +129,7 @@
           Add Row
       </button>
       
-      <button ion-button full round (click)="calculateResult()">
+      <button ion-button full round (click)="getTotal()">
         Calculate
       </button>
 
@@ -126,7 +147,7 @@
     <ion-card-content>
 
       <ion-item>
-        <ion-label Inline>Total Price</ion-label>
+        <ion-label Inline>Total Price:</ion-label>
         <ion-input type="number" placeholder="Total" [(ngModel)]="total"></ion-input>
       </ion-item>
 
