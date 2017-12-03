@@ -1,14 +1,67 @@
 <ion-header>
-  <ion-navbar>
+  <ion-navbar color="primary">
     <ion-title>
-      Ionic Blank
+      Animate CSS
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  
+  <ion-card id="card-1" class="animated bounce">
+    <ion-card-header>
+      BOUNCE
+    </ion-card-header>
+    <ion-card-content>
+      This will bounce.
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card id="card-2" class="animated swing">
+    <ion-card-header>
+      SWING
+    </ion-card-header>
+    <ion-card-content>
+      This will swing.
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card id="card-3" class="animated slideInLeft">
+    <ion-card-header>
+      SLIDE IN LEFT
+    </ion-card-header>
+    <ion-card-content>
+      This will slide in from left.
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card id="card-4" class="animated rubberBand">
+    <ion-card-header>
+      RUBBER BAND
+    </ion-card-header>
+    <ion-card-content>
+      This will stretch like a rubber band.
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card id="card-5" class="animated flipInY">
+    <ion-card-header>
+      FLIP IN Y
+    </ion-card-header>
+    <ion-card-content>
+      This will flip with y-axis.
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card id="card-5" class="animated flipInX">
+    <ion-card-header>
+      FLIP IN X
+    </ion-card-header>
+    <ion-card-content>
+      This will flip with x-axis.
+    </ion-card-content>
+  </ion-card>
+
+  <button ion-button full (click)="refreshPage()">Refresh</button>
+
 </ion-content>
