@@ -11,9 +11,13 @@ export class CalculatorPage {
   quantity1;
   quantity2;
   quantity3;
+  quantity4;
+  quantity5;
   price1;
   price2;
   price3;
+  price4;
+  price5;
   total;
 
   row: any[];
@@ -39,29 +43,11 @@ export class CalculatorPage {
   getTotal() {
     this.total = (this.quantity1 * this.price1)
                 + (this.quantity2 * this.price2)
-                + (this.quantity3 * this.price3);
+                + (this.quantity3 * this.price3)
+                + (this.quantity4 * this.price4)
+                + (this.quantity5 * this.price5);
     console.log('total = ' + this.total);
   } // End of getTotal()
-
-
-  // //Start of getTotal()
-  // $scope.getTotal = function($scope) {
-  //   var total = 0;
-  //   for (var i = 0; i < $scope.rows.length; i++) {
-  //     var row = $scope.rows[i];
-  //     total += (row.price * row.quantity);
-  //   }
-  // } // End of getTotal()
-
-
-  // //Start of getTotal()
-  // getTotal = function($scope) {
-  //   var total = 0;
-  //   for (var i = 0; i < $scope.row.length; i++) {
-  //     var row = $scope.row[i];
-  //     total += (row.price * row.quantity);
-  //   }
-  // } // End of getTotal()
 
 
 

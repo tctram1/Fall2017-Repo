@@ -99,7 +99,55 @@
           </td>
         </tr>
 
-        <tr *ngFor="let row of rows" ng-repeat="row in rows">
+        <tr>
+          <td>
+            <ion-item>
+              <ion-input type="text" placeholder="Item"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Qty." [(ngModel)]="quantity4"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Price" [(ngModel)]="price4" (ngModelChange)="amount4=quantity4*price4"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Amount" [(ngModel)]="amount4"></ion-input>
+            </ion-item>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <ion-item>
+              <ion-input type="text" placeholder="Item"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Qty." [(ngModel)]="quantity5"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Price" [(ngModel)]="price5" (ngModelChange)="amount5=quantity5*price5"></ion-input>
+            </ion-item>
+          </td>
+          <td>
+            <ion-item>
+                <ion-input type="text" placeholder="Amount" [(ngModel)]="amount5"></ion-input>
+            </ion-item>
+          </td>
+        </tr>
+
+        
+
+        <!-- <tr *ngFor="let row of rows" ng-repeat="row in rows">
           <td>
             <ion-item>
               <ion-input type="text" placeholder="Item"></ion-input>
@@ -120,14 +168,14 @@
                 <ion-input type="text" placeholder="Amount" [(ngModel)]="amount"></ion-input>
             </ion-item>
           </td>
-        </tr>
+        </tr> -->
       </table>
 
       <br>
 
-      <button ion-button full round [disabled]="rows?.length === maxQuantity" (click)="addRow()">
+      <!-- <button ion-button full round [disabled]="rows?.length === maxQuantity" (click)="addRow()">
           Add Row
-      </button>
+      </button> -->
       
       <button ion-button full round (click)="getTotal()">
         Calculate
