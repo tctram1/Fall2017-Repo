@@ -186,6 +186,27 @@
   </ion-card>
 
 
+  <!-- Adding Row -->
+  <ion-card>
+    <ion-card-header>Adding Row</ion-card-header>
+
+    <ion-card-content>
+      <ion-grid>
+        <ion-row *ngFor="let row of rows">
+          <ion-col>
+            {{ row?.firstCol }}
+          </ion-col>
+          <ion-col>
+            {{ row?.secondCol }}
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+
+      <button ion-button full round [disabled]="rows?.length === maxQuantity" (click)="addrow()">Add a row</button>
+    </ion-card-content>  
+  </ion-card>
+
+
   <ion-card>
 
     <ion-card-header>
